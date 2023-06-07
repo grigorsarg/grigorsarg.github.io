@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CH Day
-description: 
+description: IMPAN, Warsaw, Dec 12, 2023
 img: assets/img/12.jpg
 importance: 1
 category: 
