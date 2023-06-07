@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Perspectives Conference, Warsaw Nov 12-18, 2003
+description: 
 img: assets/img/3.jpg
 importance: 2
 category: work
