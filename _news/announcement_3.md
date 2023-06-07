@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-CH Day at IMPAN in Warsaw, December 12, 2023 (Speakers: Omer Ben-Neria, Ralf Schindler, Matteo Viale and Hugh Woodin)
+CH Day at IMPAN in Warsaw, December 12, 2023 
