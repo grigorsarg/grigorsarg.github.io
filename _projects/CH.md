@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CH Day
-description: a project with a background image
+description: 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
