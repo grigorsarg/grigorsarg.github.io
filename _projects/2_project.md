@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Perspectives Conference, Warsaw Nov 12-18, 2003
-description: 
+title: Perspectives Conference, 
+description: IMPAN, Warsaw Nov 12-18, 2003
 img: assets/img/3.jpg
 importance: 2
 category: work
