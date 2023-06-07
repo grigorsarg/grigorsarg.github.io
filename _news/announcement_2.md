@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
+title: The Perspectives Conference at IMPAN, Warsaw, November 12-18. 
 date: 2023-06-07 
 inline: false
 related_posts: false
 ---
 
-The Perspectives Conference at IMPAN, Warsaw, November 12-18. 
+
 
 ***
 
