@@ -184,7 +184,7 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
-                 </div>
+          </div>
           {% if site.badges %}
           <div class="badges">
             {%- if site.badges.altmetric_badge %}
@@ -210,12 +210,11 @@
                 data-pmid="{{ entry.pmid }}"
               {% else %}
                 data-id="{{ entry.dimensions }}"
-                     {% endif %}
+              {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
             {%- endif %}
           </div>
           {%- endif %}
-         
 
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
