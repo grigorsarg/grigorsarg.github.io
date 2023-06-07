@@ -2,7 +2,7 @@
 layout: page
 title: conferences
 permalink: /conferences/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 nav_order: 2
 
