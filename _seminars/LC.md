@@ -9,7 +9,7 @@ importance: 2
 
 The Logic Colloquium at the Gdansk branch of IMPAN is a colloquium series given by visitors of IMPAN.
 
-Talks
+<font size="+3">Talks</font>
 
 <ol>
 <li> October 14, 2022<br>
