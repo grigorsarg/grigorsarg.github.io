@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: The First Gdansk Logic Conference
+description: May 5th-7th
 img:
 importance: 3
+redirect: https://mat.ug.edu.pl/~rfilipow/glc/
 category: fun
 ---
 
