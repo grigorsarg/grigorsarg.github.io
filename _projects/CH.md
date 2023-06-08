@@ -8,7 +8,7 @@ category:
 ---
 
 <font size="+3">One day workshop on <a href="https://en.wikipedia.org/wiki/Continuum_hypothesis">Continuum Hypothesis.</a> </font>
-<br><br>
+<br>
 
 <font size="+3"> Confirmed Speakers</font> <br>
 
