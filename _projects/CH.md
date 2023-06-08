@@ -2,7 +2,7 @@
 layout: page
 title: CH Day
 description: IMPAN, Warsaw, Dec 12, 2023
-img: assets/img/12.jpg
+img: assets/img/CohenBook.jpg
 importance: 1
 category: 
 ---
