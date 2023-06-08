@@ -9,7 +9,7 @@ importance: 2
 <font size="+3"> Tutorials</font> <br>
 <font size="+2">
 Benjamin Siskind (TU Wien)<br>
-<a href="https://www.ucw.cz/~hubicka/">Jan Hubička (Charles University)</a><br></font>
+<a href="https://www.ucw.cz/~hubicka/">Jan Hubička (Charles University)</a></font><br><br>
 
 <font size="+3"> Confirmed Speakers</font> <br>
 
