@@ -4,7 +4,7 @@ title: CH Day
 description: IMPAN, Warsaw, Dec 12, 2023
 img: assets/img/CohenBook.jpg
 importance: 1
-category: 
+
 ---
 
 <font size="+3">One day workshop on <a href="https://en.wikipedia.org/wiki/Continuum_hypothesis">Continuum Hypothesis</a> </font>
