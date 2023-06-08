@@ -34,7 +34,7 @@ Benjamin Siskind <br>
 <a href="https://people.clas.ufl.edu/zapletal/">Jindřich Zapletal</a><br>
 <a href="https://www.ucw.cz/~hubicka/">Jan Hubička </a><br>
 <a href="https://www.assafrinot.com/">Assaf Rinot </a><br>
-<a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> </font><br>
+<a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> <br><br></font>
 
 
 <font size="+2"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
