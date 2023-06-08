@@ -45,8 +45,12 @@
   contents:
     - year: 2022 
       items: 
-        - <a href="https://www.uni-muenster.de/MathematicsMuenster/people/researchfellows/MRF.shtml"> Münster Research Fellows </a>  
-    
+       - <a href="https://www.uni-muenster.de/MathematicsMuenster/people/researchfellows/MRF.shtml"> Münster Research Fellows </a>  
+   
+   - year: 2015
+      items:
+      - <a href="https://www.newton.ac.uk/">Fellow at the Newton Institute part of the program Mathematical, 
+      Foundational and Computational Aspects of the Higher Infinite </a>
     
     - year: 2009
       items:
