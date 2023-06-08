@@ -7,6 +7,7 @@ img: assets/img/sopot.jpg
 importance: 1
 
 ---
+
 <font size="+3"> Spring 2023</font> <br>
 Topics: 
  1. Matteo Viale, Generic absoluteness theorem for the $\omega_1$ Chang model conditioned to $MM^{+++}$. <br>
