@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dense Ideal Workshop
-description: May 24-26
+description: IMPAN, Sopot, May 24-26
 img: assets/img/7.jpg
 redirect: 
 importance: 3
