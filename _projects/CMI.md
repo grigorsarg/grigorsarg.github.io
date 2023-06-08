@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Core Model Induction and Other Inner Model Theoretic Tools, 
+title: The Core Model Induction
 description: June 3rd to 14th, 2019 at Rutgers University
 img: assets/img/CMI.jpg
 importance: 4
