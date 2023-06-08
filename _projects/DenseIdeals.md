@@ -2,7 +2,7 @@
 layout: page
 title: Dense Ideal Workshop
 description: IMPAN, Sopot, May 24-26
-img: assets/img/7.jpg
+img: assets/img/AndreasMonroe.jpg
 importance: 3
 
 ---
