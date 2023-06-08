@@ -1,17 +1,15 @@
 ---
 layout: page
-title: Perspectives Conference, 
+title: Perspectives on Set Theorey, 
 description: IMPAN, Warsaw Nov 12-18, 2003
 img: assets/img/Perspectives.jpg
 importance: 2
 ---
 
-<font size="+3">Perspectives on Set Theorey </font>
-<br>
-
 <font size="+3"> Tutorials</font> <br>
+<font size="+2">
 Benjamin Siskind (TU Wien)<br>
-<a href="https://www.ucw.cz/~hubicka/">Jan Hubička (Charles University)</a><br>
+<a href="https://www.ucw.cz/~hubicka/">Jan Hubička (Charles University)</a><br></font>
 
 <font size="+3"> Confirmed Speakers</font> <br>
 
