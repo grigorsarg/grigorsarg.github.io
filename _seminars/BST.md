@@ -22,8 +22,7 @@ Topics:
 3.  <a href="https://www.impan.pl/~gsargsyan/Snotes.pdf">Notes from Sandra's talk. </a> <br>
 	
 
-<font size="+3">	
-Spring 2022</font> <br>
+<font size="+3">Spring 2022</font> <br>
 Topics:
 1. Finish the proof of Neeman's Handbook Article, Determinacy in L(R). <br>
 2. Learn a new Stationary-Tower-Free Proof of Woodin's Sealing Theorem, which lifts the well-known absoluteness theorems for L(R) to the collection of the  universally Baire sets.   <br>
