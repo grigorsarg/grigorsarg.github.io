@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<ul>
+
   <ol>
 <li>"Bi-interpretability in set theory", What philosophy can do for set theory, University of Barcelona, March 28-30, 2023, Barcelona, Catalonia. </li><br>
 <li>"omega strongly measurable cardinals in Pmax extensions of models of AD", Seminar of the Division of Real Functions, University of Gdansk, January 17, 2023, Gdansk, Poland.</li><br>
@@ -25,4 +25,4 @@ nav_order: 5
 <li>"Forcing failures of square at omega_3 over models of determinacy, and the convergence of Kc constructions." Helsinki Logic Seminar, February 2nd 2021, University of Helsinki.</li><br>
 <li>" Determinacy, forcing axioms and inner models.." Muenster Set Theory Seminar, 4 talks, November 4th, 11th, 18th and 26th of 2020, University of Muenster.</li><br>
     </ol>
-  </ul>
+  
