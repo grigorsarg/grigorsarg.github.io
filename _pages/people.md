@@ -15,8 +15,8 @@ nav_order: 7
 	<td>Jan Kostrzon, University of Warsaw, joint with Marcin Kysiak, MS expected 2023.</td></tr>
 	<td>Derek Levinson, UCLA, joint with Itay Neeman, PhD expected 2023.</td></tr>
 	<td>Obrad Kasum, Universite de Paris, joint with Boban Velickovic, MS 2021, PhD 2021-current</td></tr>
-	<td><a href="https://sites.math.rutgers.edu/~jch258/ ">James Holland</a>, Rutgers University, 2017-current</td></tr>
-	<td><a href="https://sites.google.com/view/takehikogappo/home">Takehiko Gappo</a>, Rutgers University, 2018-current</td></tr>
+	<td><a href="https://sites.math.rutgers.edu/~jch258/ ">James Holland</a>, Rutgers University, 2017-2023</td></tr>
+	<td><a href="https://sites.google.com/view/takehikogappo/home">Takehiko Gappo</a>, Rutgers University, 2018-2022</td></tr>
 	<td>Martin Koeberl, MS, Rutgers University, 2018</td></tr>
 		
 <font size="+2">
