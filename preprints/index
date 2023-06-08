@@ -142,6 +142,126 @@
         <div class="col-sm-2 abbr"></div>
 
         <!-- Entry bib key -->
+        <div id="müller2023generic" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Towards a generic absoluteness theorem for Chang models</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Sandra Müller,&nbsp;and&nbsp;<em>Grigor Sargsyan</em></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2304.07623"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="gappo2023determinacy" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Determinacy in the Chang model</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Takehiko Gappo,&nbsp;and&nbsp;<em>Grigor Sargsyan</em></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2302.06487"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="holland2023forcing" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Forcing More DC Over the Chang Model Using the Thorn Sequence</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        James Holland,&nbsp;and&nbsp;<em>Grigor Sargsyan</em></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2023
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2210.16359"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
         <div id="zbMATH07691749" class="col-sm-8">
         <!-- Title -->
         <div class="title">Negative results on precipitous ideals on \(\omega_1\)</div>
@@ -180,6 +300,166 @@
   <h2 class="year">2021</h2>
   
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sargsyan2021largest" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">The Largest Suslin Axiom</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Grigor Sargsyan</em>,&nbsp;and&nbsp;Nam Trang</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2112.04396"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sargsyan2021exact" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">The exact strength of generic absoluteness for the universally Baire sets</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Grigor Sargsyan</em>,&nbsp;and&nbsp;Nam Trang</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2110.02725"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sargsyan2021varsovian" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Varsovian models II</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Grigor Sargsyan</em>,&nbsp;Ralf Schindler,&nbsp;and&nbsp;Farmer Schlutzenberg</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2110.12051"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="larson2021failures" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Failures of square in Pmax extensions of Chang models</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Paul B. Larson,&nbsp;and&nbsp;<em>Grigor Sargsyan</em></div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
+              
+                data-arxiv-id="2105.00322"
+              
+              ></span>
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"></div>
 
