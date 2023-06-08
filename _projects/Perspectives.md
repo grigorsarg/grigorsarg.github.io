@@ -26,7 +26,7 @@ importance: 2
 <a href="https://en.wikipedia.org/wiki/Menachem_Magidor">Menachem Magidor  </a><br>
 <a href="https://mathematics.huji.ac.il/people/yair-hayut-0">Yair Hayut  </a><br>
 <a href="http://www.math.helsinki.fi/logic/people/jouko.vaananen/">Jouko Väänänen </a><br>
-Benjamin Siskind
+Benjamin Siskind <br>
 <a href="http://www.math.tau.ac.il/~gitik/">Moti Gitik</a><br>
 <a href="https://users.math.cas.cz/~lambiehanson/">Chris Lambie-Hanson  </a><br>
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic  </a><br>
@@ -34,7 +34,7 @@ Benjamin Siskind
 <a href="https://people.clas.ufl.edu/zapletal/">Jindřich Zapletal</a><br>
 <a href="https://www.ucw.cz/~hubicka/">Jan Hubička </a><br>
 <a href="https://www.assafrinot.com/">Assaf Rinot </a><br>
-<a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> </font>
+<a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> </font><br>
 
 
 <font size="+2"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
