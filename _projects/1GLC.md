@@ -5,7 +5,7 @@ description: May 5th-7th
 img: assets/img/Gdansk.jpg
 importance: 3
 redirect: https://mat.ug.edu.pl/~rfilipow/glc/
-category: fun
+
 ---
 
 Every project has a beautiful feature showcase page.
