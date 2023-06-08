@@ -19,4 +19,6 @@ category:
 
 
 <font size="+2"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
+
+<font size="+2"> Local Organizers:</font> Bartosz Wcisło and Grigor Sargsyan 
   
