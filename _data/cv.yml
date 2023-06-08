@@ -15,9 +15,8 @@
       institution: University of California, Berkeley, USA
       year: 2009
       description:
-        -  Thesis Title: A tale of hybrid mice
-        -  Thesis Adviser: <a href="http://www.math.berkeley.edu/~steel/"> Professor John Steel</a>
-         -   Outside Adiser:  <a href="http://faculty.baruch.cuny.edu/aapter/"> Professor Arthur Apter</a>
+        - Description 1.
+        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
