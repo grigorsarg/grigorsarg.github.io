@@ -2,7 +2,7 @@
 layout: page
 title: The Baltic Set Theory Seminar 
 description: IMPAN, Sopot
-img: assets/img/Sopot.jpg
+img: assets/img/sopot.jpg
 importance: 1
 
 ---
