@@ -2,7 +2,7 @@
 layout: page
 title: The IMPAN Logic Colloquium
 description: IMPAN, Sopot
-img: assets/img/IMPAN.jpg
+img: assets/img/impan.jpg
 importance: 2
 
 ---
