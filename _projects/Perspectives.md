@@ -12,15 +12,15 @@ importance: 2
 <font size="+3"> Confirmed Speakers</font> <br>
 
 <a href="https://dilip-raghavan.github.io/">Dilip Raghavan </a><br>
-<a href="">James Cummings </a><br>
-<a href=""> Dima Sinapova  </a><br>
-<a href=""> Larson, Paul  </a><br>
-<a href=""> John Steel  </a><br>
-<a href="">Jackson, Stephen </a><br>
-<a href="">stevo@math.utoronto.ca  </a><br>
-<a href="">Gabriel Goldberg  </a><br>
-<a href="">Vera Fischer  </a><br>
-<a href="">Sandra Müller  </a><br>
+<a href="https://www.cmu.edu/math/people/faculty/cummings.html">James Cummings </a><br>
+<a href="https://sites.math.rutgers.edu/~ds2005/"> Dima Sinapova  </a><br>
+<a href="https://paulblarson.github.io/"> Larson, Paul  </a><br>
+<a href="https://math.berkeley.edu/~steel/"> John Steel  </a><br>
+<a href="http://www.math.unt.edu/~sjackson/">Jackson, Stephen </a><br>
+<a href="http://www.math.toronto.edu/stevo/">stevo@math.utoronto.ca  </a><br>
+<a href="https://math.berkeley.edu/~goldberg/">Gabriel Goldberg  </a><br>
+<a href="http://www.logic.univie.ac.at/~vfischer/">Vera Fischer  </a><br>
+<a href="https://dmg.tuwien.ac.at/sandramueller/">Sandra Müller  </a><br>
 <a href="">Farmer Schlutzenberg  </a><br>
 <a href="">Menachem Magidor  </a><br>
 <a href="">Yair Hayut  </a><br>
