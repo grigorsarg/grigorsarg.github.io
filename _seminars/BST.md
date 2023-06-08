@@ -1,8 +1,7 @@
 ---
 layout: page
 title: The Baltic Set Theory Seminar 
-description: IMPAN, Sopot, The Baltic Set Theory Seminar started in February of 2021, and is an online
-learning seminar.
+description: Online Seminar, IMPAN, Sopot,
 img: assets/img/sopot.jpg
 importance: 1
 
