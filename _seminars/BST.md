@@ -1,36 +1,11 @@
 ---
 layout: page
-title: CH Day
-description: IMPAN, Warsaw, Dec 12, 2023
+title: The Baltic Set Theory Seminar 
+description: IMPAN, Sopot
 img: assets/img/Sopot.jpg
 importance: 1
 
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	
-	<base target="_blank">
-				
-	<link rel="stylesheet" type="text/css" href="./Source files/mystyle.css">
-
-	<title>Baltic Set Theory Seminar</title>
-
-	
-
-</head>
-
-<body>
-
-<center>
-<h1 style="margin-bottom:10pt;"> The Baltic Set Theory Seminar </h1>
-
-<h1 style="margin-bottom:15pt;"><img src="sopot.jpeg"  width="1000" height="600">
-
-</center>
 
 <font size="+2">
 <li>
