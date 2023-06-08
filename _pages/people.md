@@ -19,7 +19,7 @@ Jan Kostrzon, University of Warsaw, joint with Marcin Kysiak, MS expected 2023.<
 		
 <font size="+2">Visitors</font>
 
-<a href="https://sites.google.com/site/danielmaxhoffmann/"> Daniel Hoffman (University of Warsaw), June 5-6 </a><br>
+<a href="https://sites.google.com/site/danielmaxhoffmann/"> Daniel Hoffman (University of Warsaw),</a> June 5-6 <br>
 <a href="https://home.mathematik.uni-freiburg.de/maxwell/"> Maxwell Levine (University of Freiburg)</a>, May 28-June 1st, 2023 <br>
 	       <a href="http://www.logic.univie.ac.at/~eskewm25/">Monroe Eskew (TU Wien)</a>, May 23-27 <br>
               <a href="https://www.uni-muenster.de/IVV5WS/WebHop/user/alietz/">Andreas Lietz (University of Münster)</a>, May 23-27<br>                   Douglass Blue, April 3-8, 2023<br>
