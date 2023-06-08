@@ -18,6 +18,9 @@ nav_order: 7
 	<td><a href="https://sites.math.rutgers.edu/~jch258/ ">James Holland</a>, Rutgers University, 2017-2023</td></tr>
 	<td><a href="https://sites.google.com/view/takehikogappo/home">Takehiko Gappo</a>, Rutgers University, 2018-2022</td></tr>
 	<td>Martin Koeberl, MS, Rutgers University, 2018</td></tr>
+	
+	</tbody>
+	</table>
 		
 <font size="+2">
 <h3 style="margin-bottom:0pt;color:blue">Visitors</h3></font>
