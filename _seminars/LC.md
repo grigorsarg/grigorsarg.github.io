@@ -14,11 +14,11 @@ The Logic Colloquium at the Gdansk branch of IMPAN is a colloquium series given 
 <ol>
 <li> October 14, 2022<br>
 Maciej Malicki, IMPAN <br>
-  Title: Continuous logic and equivalence relations</li>
+  Title: Continuous logic and equivalence relations</li><br>
 
 <li>July 25-August 6, 2022<br>
 Gabriel Goldberg, University of California, Berkeley<br>
-Title: The Ultrafilter Axiom (4 Lectures)</li>
+Title: The Ultrafilter Axiom (4 Lectures)</li><br>
 
 <li>February 9, 2022 <br>
 Ralf Schindler, University of Muenster<br>
