@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Students, Visitors and others
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 
 <font size="+2">
