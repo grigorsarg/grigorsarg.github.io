@@ -37,13 +37,10 @@ Czech Academy of Sciences)</a><br>
 <a href="https://www.assafrinot.com/">Assaf Rinot (Bar-Ilan University) </a><br>
 <a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> <br><br></font>
 
+<font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
-<font size="+2"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
+<font size="+2"> Scientific Committee:</font> Omer Ben Neria and Grigor Sargsyan <br>
 
-<font size="+2"> Scientific Committee</font> <br>
+<font size="+2"> Local Organizers:</font> Bartosz Wcisło and Grigor Sargsyan <br>
 
-Omer Ben Neria and Grigor Sargsyan
 
-<font size="+2"> Local Organizers</font> <br>
-
-Bartosz Wcisło and Grigor Sargsyan
