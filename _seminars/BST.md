@@ -18,7 +18,7 @@ Topics:
 <font size="+3"> Fall 2022</font> <br>
 Topics:
 1. Sandra Mueller,  Stationary-Tower-Free Proof of Woodin's Sealing Theorem.  </td></tr>
-2. Matteo Viale, Generic absoluteness theorem for the omega_1 Chang model conditioned to MM^{+++}.<br>
+2. Matteo Viale, Generic absoluteness theorem for the $omega_1$ Chang model conditioned to $MM^{+++}$.<br>
 3.  <a href="https://www.impan.pl/~gsargsyan/Snotes.pdf">Notes from Sandra's talk. </a> <br>
 	
 
