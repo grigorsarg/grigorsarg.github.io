@@ -7,10 +7,8 @@ importance: 1
 
 ---
 
-<font size="+2">
-
-	The Baltic Set Theory Seminar started in February of 2021, and has taken the form of an online
-learning seminar. 
+<font size="+2"> The Baltic Set Theory Seminar started in February of 2021, and has taken the form of an online
+learning seminar. </font>
 	
 	<font size="+3">
  Spring 2023</font>
