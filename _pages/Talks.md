@@ -4,7 +4,7 @@ permalink: /teaching/
 title: talks
 description: some recent talks
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 
