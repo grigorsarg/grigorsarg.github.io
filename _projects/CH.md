@@ -7,7 +7,7 @@ importance: 1
 category: 
 ---
 
-<font size="+3">One day workshop on <a href="https://en.wikipedia.org/wiki/Continuum_hypothesis">Continuum Hypothesis.</a> </font>
+<font size="+3">One day workshop on <a href="https://en.wikipedia.org/wiki/Continuum_hypothesis">Continuum Hypothesis</a> </font>
 <br>
 
 <font size="+3"> Confirmed Speakers</font> <br>
@@ -18,4 +18,5 @@ category:
 <a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a>
 
 
+<font size="+2"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
   
