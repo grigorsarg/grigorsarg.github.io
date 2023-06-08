@@ -1,14 +1,13 @@
 
 ---
 layout: page
-title: The Baltic Set Theory Seminar 
+title: The IMPAN Logic Colloquium
 description: IMPAN, Sopot
 img: assets/img/IMPAN.jpg
-importance: 1
+importance: 2
 
 ---
 
-The IMPAN Logic Colloquium
 The Logic Colloquium at the Gdansk branch of IMPAN is a colloquium series given by visitors of IMPAN.
 
 Talks
