@@ -1,12 +1,11 @@
 ---
 layout: post
-title: The Perspectives Conference at IMPAN, Warsaw, November 12-18. 
+title: <a href="https://hodmice.github.io/projects/Perspectives/">The Perspectives Conference at IMPAN, Warsaw, November 12-18.</a> 
 date: 2023-06-07 
-inline: false
+inline: true
 related_posts: false
-redirect: https://hodmice.github.io/projects/Perspectives/
 ---
-
+The Perspectives Conference at IMPAN, Warsaw, November 12-18.  
 
 
 ***
