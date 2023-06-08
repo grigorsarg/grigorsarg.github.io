@@ -7,7 +7,15 @@ importance: 1
 category: 
 ---
 
-<font size="+2">This is a one day event devoted to the <a href="https://en.wikipedia.org/wiki/Continuum_hypothesis">Continuum Hypothesis.</a> </font>
+<font size="+3">This is a one day event devoted to the <a href="https://en.wikipedia.org/wiki/Continuum_hypothesis">Continuum Hypothesis.</a> </font>
+
+<font size="+3"> Confirmed Speakers</font>
+
+Omer Ben Neria (Hebrew University) <br>
+Ralf Schindler (University of Münster) <br>
+Matteo Viale (University of Turin) <br>
+Hugh Woodin (Harvard University) <br>
+
 
    
 
