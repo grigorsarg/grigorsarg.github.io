@@ -15,7 +15,7 @@ horizontal: false
   <!-- Display categorized seminars -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_seminars = site.seminars | where: "category", category -%}
+  {%- assign categorized_seminars = site.projects| where: "category", category -%}
   {%- assign sorted_seminars = categorized_seminars | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
@@ -37,7 +37,7 @@ horizontal: false
 
 {%- else -%}
 <!-- Display seminars without categories -->
-  {%- assign sorted_seminars = site.seminars | sort: "importance" -%}
+  {%- assign sorted_seminars = site.projects | sort: "importance" -%}
   <!-- Generate cards for each seminar -->
   {% if page.horizontal -%}
   <div class="container">
