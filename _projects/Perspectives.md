@@ -2,9 +2,8 @@
 layout: page
 title: Perspectives Conference, 
 description: IMPAN, Warsaw Nov 12-18, 2003
-img: assets/img/3.jpg
+img: assets/img/Perspectives.jpg
 importance: 2
-category: work
 ---
 
 Every project has a beautiful feature showcase page.
