@@ -16,10 +16,8 @@
       year: 2009
       description:
         -  Thesis Title: \emph{A tale of hybrid mice}
-            Adviser:
-              \href{http://www.math.berkeley.edu/~steel/}
-                   {Professor John Steel }\\
-        - Description 2.
+            Thesis Adviser: <a href="http://www.math.berkeley.edu/~steel/"> Professor John Steel</a>
+            Outside Adiser:  <a href="http://faculty.baruch.cuny.edu/aapter/"> Professor Arthur Apter</a>
         - title: Description 3.
           contents:
             - Sub-description 1.
