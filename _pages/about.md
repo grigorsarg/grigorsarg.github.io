@@ -22,3 +22,5 @@ social: true  # includes social icons at the bottom of the page
 Currently, I am a Professor IMPAN at the Institute of Mathematics of Polish Academy of Sciences. Before this, I was an Associate Professor of Mathematics at Rutgers University.
 
 <font size="+2">Research:</font> My research is mostly in set theory, and within set theory, I am interested in inner model theory and its connections with forcing axioms and determinacy axioms.
+
+<font size="+2">Publications:</font> Most of my publications can be found on <a href="./bsts.html">my arxiv page.</a>
