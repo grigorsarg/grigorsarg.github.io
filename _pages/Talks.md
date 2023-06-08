@@ -9,6 +9,7 @@ nav_order: 5
 
 
   <ol>
+  <li>"Sealing theorems", STUK 10, 14 June 2023 in Oxford, UK. </li><br>
 <li>"Bi-interpretability in set theory", What philosophy can do for set theory, University of Barcelona, March 28-30, 2023, Barcelona, Catalonia. </li><br>
 <li>"omega strongly measurable cardinals in Pmax extensions of models of AD", Seminar of the Division of Real Functions, University of Gdansk, January 17, 2023, Gdansk, Poland.</li><br>
 <li>"An invitation to Inner Model Theory", Jerusalem Set Theory Seminar, November 30th, 2022, Jerusalem, Israel.</li><br>
