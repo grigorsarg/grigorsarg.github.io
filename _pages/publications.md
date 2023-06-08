@@ -18,5 +18,5 @@ nav_order: 0
 
 </div>
 
-<!-- _pages/seminars.md -->
+
 
