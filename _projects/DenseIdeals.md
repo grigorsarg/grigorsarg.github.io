@@ -12,3 +12,4 @@ importance: 3
     <a href="http://www.logic.univie.ac.at/~eskewm25/">Monroe Eskew (TU Wien)</a> Dense Ideals on $\omega_2$<br>
 <a href="https://www.uni-muenster.de/IVV5WS/WebHop/user/alietz/">Andreas Lietz (University of Münster)</a> Forcing NS to be dense</font><br><br>
 
+<font size="+2"> Local Organizers:</font> Grigor Sargsyan 
