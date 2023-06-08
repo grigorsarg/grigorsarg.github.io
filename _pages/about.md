@@ -23,4 +23,4 @@ Currently, I am a Professor IMPAN at the Institute of Mathematics of Polish Acad
 
 <font size="+2">Research:</font> My research is mostly in set theory, and within set theory, I am interested in inner model theory and its connections with forcing axioms and determinacy axioms.
 
-<font size="+2">Publications:</font> Most of my publications can be found on <a href="./bsts.html">my arxiv page.</a>
+<font size="+2">Publications:</font> Most of my publications can be found on <a href="https://arxiv.org/a/sargsyan_g_1.html">my arxiv page.</a>
