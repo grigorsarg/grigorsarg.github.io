@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/seminars.md -->
-<div class="projects">
+<div class="seminars">
 {%- if site.enable_seminars_categories and page.display_categories %}
   <!-- Display categorized seminars -->
   {%- for category in page.display_categories %}
