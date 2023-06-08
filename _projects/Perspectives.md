@@ -29,8 +29,7 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://mathematics.huji.ac.il/people/yair-hayut-0">Yair Hayut (Hebrew University) </a><br>
 <a href="http://www.math.helsinki.fi/logic/people/jouko.vaananen/">Jouko Väänänen (University of Helsinki)</a><br>
 <a href="http://www.math.tau.ac.il/~gitik/">Moti Gitik (University of Tel Aviv)</a><br>
-<a href="https://users.math.cas.cz/~lambiehanson/">Chris Lambie-Hanson  (Institute of Mathematics
-Czech Academy of Sciences)</a><br>
+<a href="https://users.math.cas.cz/~lambiehanson/">Chris Lambie-Hanson  (IMCAS)</a><br>
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (University of Paris) </a><br>
 <a href="https://research-portal.uea.ac.uk/en/persons/david-aspero">David Aspero (University of East Anglia)</a><br>
 <a href="https://people.clas.ufl.edu/zapletal/">Jindřich Zapletal (University of Florida, Gainesville)</a><br>
