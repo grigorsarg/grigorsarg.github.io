@@ -1,15 +1,12 @@
 ---
 layout: page
 title: The Baltic Set Theory Seminar 
-description: IMPAN, Sopot
+description: IMPAN, Sopot, The Baltic Set Theory Seminar started in February of 2021, and is an online
+learning seminar.
 img: assets/img/sopot.jpg
 importance: 1
 
 ---
-
-<font size="+2"> The Baltic Set Theory Seminar started in February of 2021, and is an online
-learning seminar. </font> 
-	
 <font size="+3"> Spring 2023</font> <br>
 Topics: 
  1. Matteo Viale, Generic absoluteness theorem for the $\omega_1$ Chang model conditioned to $MM^{+++}$. <br>
