@@ -8,14 +8,12 @@ importance: 1
 ---
 
 <font size="+2">
-<li>
+
 	The Baltic Set Theory Seminar started in February of 2021, and has taken the form of an online
 learning seminar. 
 	
-	</li>
-	
 	<font size="+3">
- <h3 style="margin-bottom:0pt;">Spring 2023</h3></font>
+ Spring 2023</font>
 <table>
 <tbody>
 
@@ -30,7 +28,7 @@ The topic of the seminar is the following:
 </table>
 
 <font size="+2">
- <h3 style="margin-bottom:0pt;">Useful Info</h3></font>
+ Useful Info</h3</font>
 <table>
 <tbody>
 	<tr>
@@ -47,7 +45,7 @@ Passcode: 998199</td></tr>
 	
 	
 <font size="+3">
- <h3 style="margin-bottom:0pt;">Fall 2022</h3></font>
+ Fall 2022</font>
 <table>
 <tbody>
 
@@ -63,7 +61,7 @@ The topic of the seminar is the following:
 </table>
 
 <font size="+2">
- <h3 style="margin-bottom:0pt;">Useful Info</h3></font>
+ Useful Info</font>
 <table>
 <tbody>
 	<tr>
@@ -82,7 +80,7 @@ Passcode: 998199</td></tr>
 	
 	
 <font size="+3">	
- <h3 style="margin-bottom:0pt;">Spring 2022</h3></font>
+Spring 2022</font>
 <table>
 <tbody>
 	<tr>
@@ -97,7 +95,7 @@ Passcode: 998199</td></tr>
 </table>
 
 <font size="+2">
- <h3 style="margin-bottom:0pt;">Useful Info</h3></font>
+ Useful Info </font>
 <table>
 <tbody>
 	<tr>
