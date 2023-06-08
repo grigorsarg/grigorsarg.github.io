@@ -15,7 +15,7 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3"> Confirmed Speakers</font> <br>
 
-<font size="+3">
+<font size="+2">
 <a href="https://dilip-raghavan.github.io/">Dilip Raghavan (National University of Singapore) </a><br>
 <a href="https://www.cmu.edu/math/people/faculty/cummings.html">James Cummings (CMU) </a><br>
 <a href="https://sites.math.rutgers.edu/~ds2005/"> Dima Sinapova  (Rutgers)</a><br>
