@@ -9,7 +9,7 @@ nav_order: 4
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/seminars.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
