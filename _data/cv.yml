@@ -54,16 +54,15 @@
       - <a href="https://math.berkeley.edu/about/awards/grad/herb-alexander-prize">Alexander Prize</a>
       - <a href="https://en.wikipedia.org/wiki/Emil_Artin_Junior_Prize_in_Mathematics">Emil Artin Prize</a>
       
- 
-    
-        
+       
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Mathematical Logic, Set Theory, Inner Model Theory, Forcing Axiom, Determinacy Axioms
       
-- title: Other Interests
-  type: list
+- title: Grants
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Cycling, jogging, and NY Style Mambo
+    - title: 2023-2025 NCN Grant WEAVE-UNISONO Id: 567137, 2020-2021 NSF Grant DMS-1954149, 2014-2019  NSF Career Award DMS-1352034, 2012-2014 NSF Grant DMS-1201348
+   
