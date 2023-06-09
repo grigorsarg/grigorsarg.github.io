@@ -39,7 +39,25 @@
       institution: <a href="https://ww3.math.ucla.edu/"> Department of Mathematics, UCLA </a> 
       year: 2009-2012
     
+- title: Experience
+  type: time_table
+  contents:
+    - title: Professor IMPAN
+      institution: <a href="https://www.impan.pl/">Institute of Mathematics of Polish Academy of Sciences </a>
+      year: 2021-presents
+      
+    - title: Associate Professor 
+      institution: <a href="https://www.math.rutgers.edu/">Department of Mathematics, Rutgers University </a>
+      year: 2018-2021
+     
 
+    - title: Assistant Professor 
+      institution: <a href="https://www.math.rutgers.edu/">Department of Mathematics, Rutgers University </a>
+      year: 2012-2018
+
+    - title: NSF Postdoc 
+      institution: <a href="https://ww3.math.ucla.edu/"> Department of Mathematics, UCLA </a> 
+      year: 2009-2012
 
 - title: Honors and Awards
   type: time_table
@@ -53,12 +71,3 @@
       - Clay Liftoff Fellow
       - <a href="https://math.berkeley.edu/about/awards/grad/herb-alexander-prize">Alexander Prize</a>
       - <a href="https://en.wikipedia.org/wiki/Emil_Artin_Junior_Prize_in_Mathematics">Emil Artin Prize</a>
-      
-       
-
-- title: Grants
-  type: nested_list
-  contents:
-    - title: 2023-2025 NCN Grant WEAVE-UNISONO Id: 567137, 2020-2021 NSF Grant DMS-1954149, 2014-2019  NSF Career Award DMS-1352034, 2012-2014 NSF Grant DMS-1201348
-      
-   
