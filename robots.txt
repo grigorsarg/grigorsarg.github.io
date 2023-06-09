@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hodmice.github.io/sitemap.xml
+Sitemap: https://grigorsarg.github.io/sitemap.xml
