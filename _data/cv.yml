@@ -56,13 +56,9 @@
       
        
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Mathematical Logic, Set Theory, Inner Model Theory, Forcing Axiom, Determinacy Axioms
-      
 - title: Grants
   type: nested_list
   contents:
     - title: 2023-2025 NCN Grant WEAVE-UNISONO Id: 567137, 2020-2021 NSF Grant DMS-1954149, 2014-2019  NSF Career Award DMS-1352034, 2012-2014 NSF Grant DMS-1201348
+      
    
