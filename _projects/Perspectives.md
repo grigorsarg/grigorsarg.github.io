@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Perspectives on Set Theorey, 
+title: Perspectives on Set Theory, 
 description: IMPAN, Warsaw Nov 12-18, 2023
 img: assets/img/Perspectives.jpg
 importance: 2
