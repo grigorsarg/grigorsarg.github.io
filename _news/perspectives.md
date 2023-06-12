@@ -8,6 +8,6 @@ related_posts: false
 
 ***
 
-<a href="https://hodmice.github.io/projects/Perspectives/">The Perspectives Conference at IMPAN, Warsaw, November 12-18.</a> 
+<a href="https://grigorsarg.github.io/projects/Perspectives/">The Perspectives Conference at IMPAN, Warsaw, November 12-18.</a> 
 
 
