@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Perspectives on Set Theorey, 
-description: IMPAN, Warsaw Nov 12-18, 2003
+description: IMPAN, Warsaw Nov 12-18, 2023
 img: assets/img/Perspectives.jpg
 importance: 2
 ---
