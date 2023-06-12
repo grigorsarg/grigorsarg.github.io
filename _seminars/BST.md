@@ -9,7 +9,7 @@ importance: 1
 <font size="+3"> Fall 2023</font> <br>
 Topics: 
  1. Grigor Sargsyan, A course on large cardinals <br>
-2. Tutorials by the Leaders of the Set Theory portion of  
+2. Tutorials by the Leaders of the Set Theory portion of  <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a> <br>
 
 <font size="+3"> Spring 2023</font> <br>
 Topics: 
