@@ -11,4 +11,4 @@ related_posts: false
 
 ***
 
-<a href="https://hodmice.github.io/projects/CH/">A one day event dedicated to the Continum Hypothesis</a> 
+<a href="https://grigorsarg.github.io/projects/CH/">A one day event dedicated to the Continum Hypothesis</a> 
