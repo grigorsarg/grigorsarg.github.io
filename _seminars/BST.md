@@ -11,7 +11,7 @@ Topics:
  1. (September-October) Grigor Sargsyan, A course on large cardinals <br>
  2. (November-December) Tutorials by the Leaders of the Set Theory portion of  <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a> <br>
  3. Below is the list of the Tutorial Speakers.<br>
- 4.<a href="https://math.huji.ac.il/~omerbn/">Omer Ben Neria (Hebrew University) </a><br>
+ 4. <a href="https://math.huji.ac.il/~omerbn/">Omer Ben Neria (Hebrew University) </a><br>
 <a href="http://ivv5hpp.uni-muenster.de/u/rds/">Ralf Schindler (University of Münster)</a> <br>
 <a href="http://www.logicatorino.altervista.org/matteo_viale/">Matteo Viale (University of Turin)</a> <br>
 <a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a><br>
