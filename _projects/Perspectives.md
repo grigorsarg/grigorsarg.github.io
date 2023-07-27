@@ -43,4 +43,4 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3"> The conference is part of the University of Warsaw IDUB Thematic Research Programme STRUCTURES.
 
-img: assets/img/Perspectives.jpg
+![Book logo](/least-github-pages/assets/MIM.jpg)
