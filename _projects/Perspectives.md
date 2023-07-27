@@ -43,4 +43,8 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3"> The conference is part of the University of Warsaw IDUB Thematic Research Programme STRUCTURES.<br>
 
-<a ![Uni Logo](/assets/img/MIM.jpg) </a>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/MIM.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>  
+</div>
