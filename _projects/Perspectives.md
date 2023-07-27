@@ -41,4 +41,6 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+2"> Local Organizers:</font> Bartosz Wcisło and Grigor Sargsyan <br>
 
+<font size="+3"> The conference is part of the University of Warsaw IDUB Thematic Research Programme STRUCTURES.
+
 
