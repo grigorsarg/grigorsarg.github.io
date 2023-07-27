@@ -37,9 +37,9 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
-<font size="+2"> Scientific Committee:</font> Omer Ben Neria and Grigor Sargsyan <br>
+<font size="+3"> Scientific Committee:</font> Omer Ben Neria and Grigor Sargsyan <br>
 
-<font size="+2"> Local Organizers:</font> Bartosz Wcisło and Grigor Sargsyan <br>
+<font size="+3"> Local Organizers:</font> Bartosz Wcisło and Grigor Sargsyan <br>
 
 <font size="+3"> The conference is part of the University of Warsaw IDUB Thematic Research Programme STRUCTURES.
 
