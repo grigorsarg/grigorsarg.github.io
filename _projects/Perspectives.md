@@ -16,8 +16,6 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://dilip-raghavan.github.io/">Dilip Raghavan (National University of Singapore) </a><br>
 <a href="https://www.cmu.edu/math/people/faculty/cummings.html">James Cummings (CMU) </a><br>
 <a href="https://sites.math.rutgers.edu/~ds2005/"> Dima Sinapova  (Rutgers)</a><br>
-<a href="https://paulblarson.github.io/">  Paul Larson (Miami University) </a><br>
-<a href="https://math.berkeley.edu/~steel/"> John Steel (UC Berkeley) </a><br>
 <a href="http://www.math.unt.edu/~sjackson/"> Steve Jackson (UNT) </a><br>
 <a href="http://www.math.toronto.edu/stevo/">Stevo Todorcevic (University of Toronto)</a><br>
 <a href="https://math.berkeley.edu/~goldberg/">Gabriel Goldberg (UC Berkeley) </a><br>
@@ -27,7 +25,6 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://en.wikipedia.org/wiki/Menachem_Magidor">Menachem Magidor (Hebrew University) </a><br>
 <a href="https://mathematics.huji.ac.il/people/yair-hayut-0">Yair Hayut (Hebrew University) </a><br>
 <a href="http://www.math.helsinki.fi/logic/people/jouko.vaananen/">Jouko Väänänen (University of Helsinki)</a><br>
-<a href="http://www.math.tau.ac.il/~gitik/">Moti Gitik (University of Tel Aviv)</a><br>
 <a href="https://users.math.cas.cz/~lambiehanson/">Chris Lambie-Hanson  (IMCAS)</a><br>
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (University of Paris) </a><br>
 <a href="https://research-portal.uea.ac.uk/en/persons/david-aspero">David Aspero (University of East Anglia)</a><br>
@@ -37,9 +34,9 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
-<font size="+3"> Scientific Committee:</font> Omer Ben Neria and Grigor Sargsyan <br>
+<font size="+3"> Scientific Committee:</font> Omer Ben Neria, Grigor Sargsyan and Piotr Zakrzewski <br>
 
-<font size="+3"> Local Organizers:</font> Bartosz Wcisło and Grigor Sargsyan <br>
+<font size="+3"> Local Organizers:</font> Bartosz Wcisło, Grigor Sargsyan and  Piotr Zakrzewski  <br>
 
 <font size="+3"> The conference is part of the University of Warsaw IDUB Thematic Research Programme STRUCTURES.<br>
 
