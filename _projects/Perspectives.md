@@ -32,6 +32,8 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://www.assafrinot.com/">Assaf Rinot (Bar-Ilan University) </a><br>
 <a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> <br><br></font>
 
+<font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Registration</a></font> <br>
+
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
 <font size="+3"> Scientific Committee:</font> Omer Ben Neria, Grigor Sargsyan and Piotr Zakrzewski <br>
