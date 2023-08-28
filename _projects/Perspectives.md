@@ -33,6 +33,8 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Registration</a></font> <br>
 
+<font size="+3"> to contact the organizers please send an email to perspectivesonsettheory @ gmail dot com </font> <br>
+
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
 <font size="+3"> Scientific Committee:</font> Omer Ben Neria, Grigor Sargsyan and Piotr Zakrzewski <br>
