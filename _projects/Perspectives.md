@@ -12,8 +12,7 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://www.ucw.cz/~hubicka/">Jan Hubička (Charles University)</a></font><br><br>
 
 <font size="+3"> Confirmed Speakers</font> <br>
-<font size="+2">
-<a href="https://dilip-raghavan.github.io/">Dilip Raghavan (National University of Singapore) </a><br>
+<font size="+3">
 <a href="https://www.cmu.edu/math/people/faculty/cummings.html">James Cummings (CMU) </a><br>
 <a href="https://sites.math.rutgers.edu/~ds2005/"> Dima Sinapova  (Rutgers)</a><br>
 <a href="http://www.math.unt.edu/~sjackson/"> Steve Jackson (UNT) </a><br>
