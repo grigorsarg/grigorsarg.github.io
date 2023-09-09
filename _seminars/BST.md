@@ -16,6 +16,10 @@ Topics:
 <a href="http://www.logicatorino.altervista.org/matteo_viale/">Matteo Viale (University of Turin)</a> <br>
 <a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a><br>
 
+Time: 15:00-16:30, Warsaw/Paris Time.
+Zoom Info:
+Meeting ID: 897 1539 0286
+
 
 <font size="+3"> Spring 2023</font> <br>
 Topics: 
