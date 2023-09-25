@@ -12,6 +12,7 @@ The Logic Colloquium at the Gdansk branch of IMPAN is a colloquium series given 
 <font size="+3">Talks</font>
 
 <ol>
+  
 <li> November 30, 2023<br>
 Omer Ben Neria, Hebrew University (Part of Simon's Semester Program)<br>
   Title: </li><br>
