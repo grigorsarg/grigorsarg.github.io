@@ -16,22 +16,21 @@ The Logic Colloquium at the Gdansk branch of IMPAN is a colloquium series given 
 Omer Ben Neria, Hebrew University (Part of Simon's Semester Program)<br>
   Title: </li><br>
 
-  <ol>
+
 <li> November 23, 2023<br>
 Matteo Viale, Hebrew University (Part of Simon's Semester Program)<br>
   Title: </li><br>
 
-<ol>
+
 <li> November 2, 2023<br>
 Ralf Schindler, Muenster (Part of Simon's Semester Program)<br>
   Title: </li><br>
 
-<ol>
 <li> October 26, 2023<br>
 John Steel, UC Berkeley (Part of Simon's Semester Program)<br>
   Title: </li><br>
 
-<ol>
+
 <li> October 14, 2022<br>
 Maciej Malicki, IMPAN <br>
   Title: Continuous logic and equivalence relations</li><br>
