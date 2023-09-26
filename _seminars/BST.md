@@ -14,7 +14,8 @@ Topics:
  4. <a href="https://math.huji.ac.il/~omerbn/">Omer Ben Neria (Hebrew University) </a><br>
 <a href="http://ivv5hpp.uni-muenster.de/u/rds/">Ralf Schindler (University of Münster)</a> <br>
 <a href="http://www.logicatorino.altervista.org/matteo_viale/">Matteo Viale (University of Turin)</a> <br>
-<a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a><br>
+<a href="https://math.berkeley.edu/~steel/">John Steel (UC Berkeley) </a><br>
+<a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (Paris) </a><br>
 
 Time: 15:00-16:30, Warsaw/Paris Time.
 
