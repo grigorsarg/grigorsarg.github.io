@@ -22,6 +22,8 @@ Zoom Info:
 
 Meeting ID: 897 1539 0286
 
+Passcode: 763015
+
 
 <font size="+3"> Spring 2023</font> <br>
 Topics: 
