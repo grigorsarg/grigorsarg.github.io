@@ -18,7 +18,7 @@ Benjamin Siskind (TU Wien)<br>
 <a href="http://www.math.unt.edu/~sjackson/"> Steve Jackson (UNT) </a><br>
 <a href="http://www.math.toronto.edu/stevo/">Stevo Todorcevic (University of Toronto)</a><br>
 <a href="https://math.berkeley.edu/~goldberg/">Gabriel Goldberg (UC Berkeley) </a><br>
-<a href="http://www.logic.univie.ac.at/~vfischer/">Vera Fischer (University of Vienna) </a><br>
+<a href="http://www.logic.univie.ac.at/~eskewm25/">Monroe Eskew (University of Vienna) </a><br>
 <a href="https://dmg.tuwien.ac.at/sandramueller/">Sandra Müller (TU Wien) </a><br>
 <a href="https://sites.google.com/site/schlutzenberg">Farmer Schlutzenberg (TU Wien) </a><br>
 <a href="https://en.wikipedia.org/wiki/Menachem_Magidor">Menachem Magidor (Hebrew University) </a><br>
@@ -29,11 +29,12 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://research-portal.uea.ac.uk/en/persons/david-aspero">David Aspero (University of East Anglia)</a><br>
 <a href="https://people.clas.ufl.edu/zapletal/">Jindřich Zapletal (University of Florida, Gainesville)</a><br>
 <a href="https://www.assafrinot.com/">Assaf Rinot (Bar-Ilan University) </a><br>
+<a href="https://sites.google.com/site/rahmanmohammadpour/">Rahman Mohammadpour (TU Wien) </a><br>
 <a href="https://philosophy.fas.harvard.edu/people/w-hugh-woodin">Hugh Woodin (Harvard University) </a> <br><br></font>
 
 <font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Suggested Hotels</a> <br>
 
-IMPAN is very conveninetly located, and there are many hotels all around IMPAN. Here are some names: Residence 1898, Mercure, Novotel, Metropol. Airbnb is also a good option. Here is IMPAN'S <a href="https://www.google.com/maps/place/Mathematical+Institute+of+the+Polish+Academy+of+Sciences/@52.2214313,21.0121334,17z/data=!3m1!4b1!4m6!3m5!1s0x471eccef23a16a9b:0x84d479b4e7e9993d!8m2!3d52.221428!4d21.0147083!16s%2Fg%2F122_gs0r?entry=ttu">location</a></font><<br>
+IMPAN is very conveninetly located, and there are many hotels all around IMPAN. Here are some names: Residence 1898, Mercure, Novotel, Metropol. Airbnb is also a good option. Here is IMPAN'S <a href="https://www.google.com/maps/place/Mathematical+Institute+of+the+Polish+Academy+of+Sciences/@52.2214313,21.0121334,17z/data=!3m1!4b1!4m6!3m5!1s0x471eccef23a16a9b:0x84d479b4e7e9993d!8m2!3d52.221428!4d21.0147083!16s%2Fg%2F122_gs0r?entry=ttu">location.</a></font>
 
 
 <font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Registration</a></font> <br>
