@@ -30,7 +30,7 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://people.clas.ufl.edu/zapletal/">Jindřich Zapletal (University of Florida, Gainesville)</a><br>
 <a href="https://www.assafrinot.com/">Assaf Rinot (Bar-Ilan University) </a><br>
 <a href="https://sites.google.com/site/rahmanmohammadpour/">Rahman Mohammadpour (TU Wien) </a><br>
-<a href="https://scholar.google.cz/citations?user=gNBj5ooAAAAJ&hl=en">David Chodounský (Institute of Mathematics CAS) </a><br>
+<a href="https://scholar.google.cz/citations?user=gNBj5ooAAAAJ&hl=en">David Chodounský (Institute of Mathematics CAS) </a><br><br>
 </font>
 
 <font size="+3">  Suggested Hotels <br>
