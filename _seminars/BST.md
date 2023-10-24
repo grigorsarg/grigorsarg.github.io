@@ -16,6 +16,9 @@ Topics:
 <a href="http://www.logicatorino.altervista.org/matteo_viale/">Matteo Viale (University of Turin)</a> <br>
 <a href="https://math.berkeley.edu/~steel/">John Steel (UC Berkeley) </a><br>
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (Paris) </a><br>
+ 5. The infor for Tutorials is listed below.
+
+
 
 Time: 15:00-16:30, Warsaw/Paris Time.
 
@@ -24,6 +27,31 @@ Zoom Info:
 Meeting ID: 897 1539 0286
 
 Passcode: 763015
+
+<font size="+3"> Tutorials by John Steel</font> <br>
+<font size="+3"> Mouse Pairs and Soulsin Cardinals</font> <br>
+
+Tutorial 1
+Date: October 23, 2023
+Time: 12-13
+Place: Mariacka 34/36
+
+Tutorial 2
+Date: October 24, 2023
+Time: 12-13
+Place: Mariacka 34/36
+
+Tutorial 3
+Date: October 26, 2023
+Time: 17-18
+Place: University of Gdansk, Room D003
+Crosslisted as Gdansk Logic Colloquim
+
+
+
+
+
+
 
 
 <font size="+3"> Spring 2023</font> <br>
