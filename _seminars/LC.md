@@ -1,13 +1,11 @@
 ---
 layout: page
-title: The IMPAN Logic Colloquium
-description: IMPAN, Sopot
+title: Gdansk Logic Colloquium
+description: IMPAN and University of Gdansk
 img: assets/img/impan.jpg
 importance: 2
 
 ---
-
-The Logic Colloquium at the Gdansk branch of IMPAN is a colloquium series given by visitors of IMPAN.
 
 <font size="+3">Talks</font>
 
@@ -29,7 +27,8 @@ Ralf Schindler, Muenster (Part of Simon's Semester Program)<br>
 
 <li> October 26, 2023<br>
 John Steel, UC Berkeley (Part of Simon's Semester Program)<br>
-  Title: </li><br>
+  Title: Mouse Pairs and Soulsin Cardinals<br>
+  Place: University of Gdansk, Room D003</li><br>
 
 
 <li> October 14, 2022<br>
