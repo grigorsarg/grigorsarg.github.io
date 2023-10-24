@@ -22,7 +22,11 @@ Matteo Viale, Hebrew University (Part of Simon's Semester Program)<br>
 
 
 <li> November 2, 2023<br>
-Ralf Schindler, Muenster (Part of Simon's Semester Program)<br>
+Ralf Schindler, University of Muenster (Part of Simon's Semester Program)<br>
+  Title: </li><br>
+
+ <li> November 2, 2023<br>
+Boban Velickovic, University of Paris (Part of Simon's Semester Program)<br>
   Title: </li><br>
 
 <li> October 26, 2023<br>
