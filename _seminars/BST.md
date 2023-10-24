@@ -29,7 +29,7 @@ Meeting ID: 897 1539 0286
 Passcode: 763015
 
 <font size="+3"> Tutorials by John Steel</font> <br>
-<font size="+3"> Mouse Pairs and Soulsin Cardinals</font> <br>
+<font size="+3"> Title: Mouse Pairs and Soulsin Cardinals</font> <br>
 
 Tutorial 1<br>
 Date: October 23, 2023<br>
