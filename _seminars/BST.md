@@ -31,20 +31,20 @@ Passcode: 763015
 <font size="+3"> Tutorials by John Steel</font> <br>
 <font size="+3"> Mouse Pairs and Soulsin Cardinals</font> <br>
 
-Tutorial 1
-Date: October 23, 2023
-Time: 12-13
-Place: Mariacka 34/36
+Tutorial 1<br>
+Date: October 23, 2023<br>
+Time: 12-13<br>
+Place: Mariacka 34/36<br>
 
-Tutorial 2
-Date: October 24, 2023
-Time: 12-13
-Place: Mariacka 34/36
+Tutorial 2<br>
+Date: October 24, 2023<br>
+Time: 12-13<br>
+Place: Mariacka 34/36<br>
 
-Tutorial 3
-Date: October 26, 2023
-Time: 17-18
-Place: University of Gdansk, Room D003
+Tutorial 3<br>
+Date: October 26, 2023<br>
+Time: 17-18<br>
+Place: University of Gdansk, Room D003<br>
 Crosslisted as Gdansk Logic Colloquim
 
 
