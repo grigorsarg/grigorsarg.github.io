@@ -13,7 +13,7 @@ Tutorial 1<br>
 Date: October 23, 2023<br>
 Time: 12-13<br>
 Place: Mariacka 34/36<br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/tutorial1A.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/tutorial1B.pdf">Version2</a>   <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/tutorial1A.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/Tutorial1B.pdf">Version2</a>   <br>
 
 Tutorial 2<br>
 Date: October 24, 2023<br>
