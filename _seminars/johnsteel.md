@@ -13,7 +13,7 @@ Tutorial 1<br>
 Date: October 23, 2023<br>
 Time: 12-13<br>
 Place: Mariacka 34/36<br>
-Notes:
+Notes: <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/Schedule.pdf">Schedule</a> </font> <br>
 
 Tutorial 2<br>
 Date: October 24, 2023<br>
