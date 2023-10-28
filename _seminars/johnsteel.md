@@ -6,6 +6,7 @@ img: assets/img/steel.jpg
 importance: 3
 
 ---
+{% include figure.html path="assets/img/steel5.jpg"  class="img-fluid rounded z-depth-1" %}
 <font size="+3"> Tutorials by John Steel</font> <br>
 <font size="+3"> Title: Mouse Pairs and Soulsin Cardinals</font> <br>
 
