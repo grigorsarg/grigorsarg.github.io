@@ -35,7 +35,7 @@ Benjamin Siskind (TU Wien)<br>
 
 <div class="row">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/pdf/Schedule.pdf" title="Schedule" %}
+        {% include path="assets/pdf/Schedule.pdf" title="Schedule" %}
     </div>
 </div>
 
