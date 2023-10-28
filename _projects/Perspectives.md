@@ -40,7 +40,7 @@ IMPAN is very conveninetly located, and there are many hotels all around IMPAN. 
 
 <font size="+3"> Registeration (Dedline October 25)</font> <br>
 
-<a href="https://grigorsarg.github.io/projects/rp.html">Structures Semester</a>
+<a href="https://grigorsarg.github.io/rp.html">Structures Semester</a>
 
 
 <font size="+3"> to contact the organizers please send an email to perspectivesonsettheory @ gmail dot com </font> <br>
