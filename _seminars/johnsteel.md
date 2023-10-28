@@ -27,3 +27,4 @@ Time: 17-18<br>
 Place: University of Gdansk, Department of Mathematics, Room D003<br>
 Crosslisted as Gdansk Logic Colloquim<br>
 Notes:  <a href="https://grigorsarg.github.io/assets/pdf/steelslides.pdf">Slides</a><br>
+Recording:  <a href="https://www.youtube.com/playlist?list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK">Video</a><br>
