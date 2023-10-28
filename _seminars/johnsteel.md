@@ -30,13 +30,18 @@ Notes:  <a href="https://grigorsarg.github.io/assets/pdf/steelslides.pdf">Slides
 Recording:  <a href="https://www.youtube.com/playlist?list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK">Video</a><br>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/steel1.jpg"  class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/steel2.jpg"  class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/steel3.jpg"  class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/steel4.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
