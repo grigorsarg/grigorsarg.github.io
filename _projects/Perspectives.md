@@ -38,9 +38,9 @@ Benjamin Siskind (TU Wien)<br>
 IMPAN is very conveninetly located, and there are many hotels all around IMPAN. Here are some names: Residence 1898, Mercure, Novotel, Metropol. Airbnb is also a good option. Here is IMPAN'S <a href="https://www.google.com/maps/place/Mathematical+Institute+of+the+Polish+Academy+of+Sciences/@52.2214313,21.0121334,17z/data=!3m1!4b1!4m6!3m5!1s0x471eccef23a16a9b:0x84d479b4e7e9993d!8m2!3d52.221428!4d21.0147083!16s%2Fg%2F122_gs0r?entry=ttu">location.</a></font>
 
 
-<font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Registration</a> (Dedline October 25)</font> <br>
+<font size="+3">  <a href="grigorsarg.github.io/assets/pages/perspectives/ru.html">Registered Participants</a> (Dedline October 25)</font> <br>
 
-{% include path="assets/pages/perspectives/ru.html" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 
 <font size="+3"> to contact the organizers please send an email to perspectivesonsettheory @ gmail dot com </font> <br>
