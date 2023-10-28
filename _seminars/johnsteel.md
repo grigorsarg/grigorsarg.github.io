@@ -13,15 +13,17 @@ Tutorial 1<br>
 Date: October 23, 2023<br>
 Time: 12-13<br>
 Place: Mariacka 34/36<br>
-Notes: <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/Schedule.pdf">Schedule</a> </font> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/tutorial1A.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/tutorial1B.pdf">Version2</a>   <br>
 
 Tutorial 2<br>
 Date: October 24, 2023<br>
 Time: 12-13<br>
 Place: Mariacka 34/36<br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/tutorial2A.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/tutorial2B.pdf">Version2</a>   <br>
 
 Tutorial 3<br>
 Date: October 26, 2023<br>
 Time: 17-18<br>
 Place: University of Gdansk, Room D003<br>
-Crosslisted as Gdansk Logic Colloquim
+Crosslisted as Gdansk Logic Colloquim<br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/steelslides.pdf">Slides</a><br>
