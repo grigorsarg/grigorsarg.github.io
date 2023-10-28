@@ -8,10 +8,10 @@ nav_order: 2
 ---
 
 
-  <ol>
-    <li> "Forcing Axioms and Determinacy Axioms, towards a unified theory of infinity", IMPAN Colloquim, October 18, Warsaw, 2023, </li>
-   <li> " Forcing over models of determinacy", 17th International Luminy Workshop in Set Theory,October 9-13, Luminy,France, 2023.
-  <li> "Forcing over models of determinacy", Spanish+Polish Mathematical Meeting, September 4-8, Lodz, Poland, 2023</li>
+  
+    <li> "Forcing Axioms and Determinacy Axioms, towards a unified theory of infinity", IMPAN Colloquim, October 18, Warsaw, 2023, </li><br>
+   <li> " Forcing over models of determinacy", 17th International Luminy Workshop in Set Theory,October 9-13, Luminy,France, 2023.</li><br>
+  <li> "Forcing over models of determinacy", Spanish+Polish Mathematical Meeting, September 4-8, Lodz, Poland, 2023</li><br>
   <li>"Sealing theorems", STUK 10, 14 June 2023 in Oxford, UK. </li><br>
 <li>"Bi-interpretability in set theory", What philosophy can do for set theory, University of Barcelona, March 28-30, 2023, Barcelona, Catalonia. </li><br>
 <li>"omega strongly measurable cardinals in Pmax extensions of models of AD", Seminar of the Division of Real Functions, University of Gdansk, January 17, 2023, Gdansk, Poland.</li><br>
@@ -28,5 +28,5 @@ nav_order: 2
 <li>"The exact strength of Sealing." Helsinki Logic Seminar, March 3rd 2021, University of Helsinki.</li><br>
 <li>"Forcing failures of square at omega_3 over models of determinacy, and the convergence of Kc constructions." Helsinki Logic Seminar, February 2nd 2021, University of Helsinki.</li><br>
 <li>" Determinacy, forcing axioms and inner models.." Muenster Set Theory Seminar, 4 talks, November 4th, 11th, 18th and 26th of 2020, University of Muenster.</li><br>
-    </ol>
+  
   
