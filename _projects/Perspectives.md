@@ -40,7 +40,7 @@ IMPAN is very conveninetly located, and there are many hotels all around IMPAN. 
 
 <font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Registration</a> (Dedline October 25)</font> <br>
 
-{% include figure.html path="assets/pages/perspectives/ru.html" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include path="assets/pages/perspectives/ru.html" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
 <font size="+3"> to contact the organizers please send an email to perspectivesonsettheory @ gmail dot com </font> <br>
