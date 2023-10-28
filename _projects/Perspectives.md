@@ -33,12 +33,7 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://scholar.google.cz/citations?user=gNBj5ooAAAAJ&hl=en">David Chodounský (Institute of Mathematics CAS) </a><br><br>
 </font>
 
-<div class="row">
-<div class="col-sm mt-3 mt-md-0">
-        {% include path="assets/pdf/Schedule.pdf" title="Schedule" %}
-    </div>
-</div>
-
+<font size="+3"> <a href="https://grigorsarg.github.io/assets/Schedule.pdf">Schedule</a> </font> <br>
 
 <font size="+3"> <a href="https://grigorsarg.github.io/rp.html">Registered Participants</a> (Registration Dedline was October 25, but the registration is not required)</font> <br>
 
