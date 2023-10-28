@@ -40,6 +40,9 @@ IMPAN is very conveninetly located, and there are many hotels all around IMPAN. 
 
 <font size="+3">  <a href="https://docs.google.com/forms/d/e/1FAIpQLSccN6wVV36sXrM9sRT53cpYjMWZ64BV7FQP5FbiwIxd_e7pJg/viewform?usp=pp_url">Registration</a> (Dedline October 25)</font> <br>
 
+{% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+
 <font size="+3"> to contact the organizers please send an email to perspectivesonsettheory @ gmail dot com </font> <br>
 
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
