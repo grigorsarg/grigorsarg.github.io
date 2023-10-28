@@ -24,6 +24,6 @@ Notes:  <a href="https://grigorsarg.github.io/assets/pdf/tutorial2A.pdf">Version
 Tutorial 3<br>
 Date: October 26, 2023<br>
 Time: 17-18<br>
-Place: University of Gdansk, Room D003<br>
+Place: University of Gdansk, Department of Mathematics, Room D003<br>
 Crosslisted as Gdansk Logic Colloquim<br>
 Notes:  <a href="https://grigorsarg.github.io/assets/pdf/steelslides.pdf">Slides</a><br>
