@@ -28,6 +28,41 @@ Meeting ID: 897 1539 0286
 
 Passcode: 763015
 
+<font size="+3"> Tutorials by Boban Velickovic</font> <br>
+<font size="+3"> Title:In search of higher forcing axioms. </font> <br>
+
+Tutorial 1<br>
+Date: November 2nd, 2023<br>
+Time: 15:30-16:30<br>
+Place:  University of Gdansk, Department of Mathematics, Room D003<br>
+Crosslisted as Gdansk Logic Colloquim<br>
+
+Tutorial 2<br>
+Date: November 3rd, 2023<br>
+Time: 11-12<br>
+Place: Mariacka 34/36<br>
+
+Tutorial 3<br>
+Date: November 6, 2023<br>
+Time: 11-12 <br>
+Place: Mariacka 34/36<br>
+
+Two additional lectures: <br>
+
+Date: November 15, 2023<br>
+Time: 14:15-15:15 <br>
+Title: Higher derived limits<br>
+Place: IMPAN, Warsaw<br>
+Crosslisted as IMPAN Colloquium<br>
+
+Date: November 17, 2023<br>
+Time: 12-13 <br>
+Title: <br>
+Place: IMPAN, Warsaw<br>
+Crosslisted as a talk in <a: href"Perspectives on Set Theory<br>
+
+
+
 <font size="+3"> Tutorials by John Steel</font> <br>
 <font size="+3"> Title: Mouse Pairs and Soulsin Cardinals</font> <br>
 
