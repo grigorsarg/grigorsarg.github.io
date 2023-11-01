@@ -23,11 +23,17 @@ Matteo Viale, Hebrew University (Part of Simon's Semester Program)<br>
 
 <li> November 2, 2023<br>
 Ralf Schindler, University of Muenster (Part of Simon's Semester Program)<br>
-  Title: </li><br>
+Title:The *-version of Martin's Maximum <br>
+Time: 16:45-17:45<br>
+Place:  University of Gdansk, Department of Mathematics, Room D003</li><br>
 
- <li> November 2, 2023<br>
-Boban Velickovic, University of Paris (Part of Simon's Semester Program)<br>
-  Title: </li><br>
+ <li> Date: November 2nd, 2023<br>
+  Boban Velickovic, Institut de Mathématiques Jussieu - Paris Rive Gauche (IMJ-PRG)<br>
+Université Paris Cité 
+  Title: Higher forcing axioms <br>
+Time: 15:30-16:30<br>
+Place:  University of Gdansk, Department of Mathematics, Room D003
+ </li><br>
 
 <li> October 26, 2023<br>
 John Steel, UC Berkeley (Part of Simon's Semester Program)<br>
