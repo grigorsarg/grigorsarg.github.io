@@ -48,24 +48,9 @@ Date: November 6, 2023<br>
 Time: 14-15 <br>
 Place: Mariacka 34/36<br>
 
-Two additional lectures: <br>
-
-Date: November 15, 2023<br>
-Time: 14:15-15:15 <br>
-Title: Higher derived limits<br>
-Place: IMPAN, Warsaw<br>
-Crosslisted as <a href="https://sites.google.com/view/kolokwium/home">IMPAN Colloquium<a><br>
-
-Date: November 17, 2023<br>
-Time: 12-13 <br>
-Title: <br>
-Place: IMPAN, Warsaw<br>
-Crosslisted as a talk in <a href="https://grigorsarg.github.io/projects/Perspectives/">Perspectives on Set Theory<a><br>
-
-
 
 <font size="+3"> Tutorials by Boban Velickovic</font> <br>
-<font size="+3"> Title:In search of higher forcing axioms. </font> <br>
+<font size="+3"> Title: In search of higher forcing axioms. </font> <br>
 
 Tutorial 1<br>
 Date: November 2nd, 2023<br>
