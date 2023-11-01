@@ -59,7 +59,7 @@ Date: November 17, 2023<br>
 Time: 12-13 <br>
 Title: <br>
 Place: IMPAN, Warsaw<br>
-Crosslisted as a talk in <a: href"Perspectives on Set Theory<br>
+Crosslisted as a talk in <a href="https://grigorsarg.github.io/projects/Perspectives/">Perspectives on Set Theory<a><br>
 
 
 
