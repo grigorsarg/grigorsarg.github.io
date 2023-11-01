@@ -28,6 +28,42 @@ Meeting ID: 897 1539 0286
 
 Passcode: 763015
 
+<font size="+3"> Tutorials by Ralf Schindler</font> <br>
+<font size="+3"> Title:    title: The *-version of Martin's Maximum </font> <br>
+<font size="+3"> Abstract: Inspired by P_max, we define and explore the *-versions of various forms of Martin's Maximum. While the *-version of BMM is equivalent to BMM (by a result of Asperó and the speaker), the *-version of full MM might be strictly stronger than MM and in fact the former isn't even known to be consistent. The new result will be the construction of a ZFC-model of the *-version of MM for antichains of size \aleph_2. Doing the same for \aleph_3 is a problem that is wide open and leads to interesting set theoretical questions which are currently explored by several people..</font> <br>
+
+Tutorial 1<br>
+Date: November 2nd, 2023<br>
+Time: 16:45-17:45<br>
+Place:  University of Gdansk, Department of Mathematics, Room D003<br>
+Crosslisted as Gdansk Logic Colloquim<br>
+
+Tutorial 2<br>
+Date: November 3rd, 2023<br>
+Time: 14-15<br>
+Place: Mariacka 34/36<br>
+
+Tutorial 3<br>
+Date: November 6, 2023<br>
+Time: 14-15 <br>
+Place: Mariacka 34/36<br>
+
+Two additional lectures: <br>
+
+Date: November 15, 2023<br>
+Time: 14:15-15:15 <br>
+Title: Higher derived limits<br>
+Place: IMPAN, Warsaw<br>
+Crosslisted as <a href="https://sites.google.com/view/kolokwium/home">IMPAN Colloquium<a><br>
+
+Date: November 17, 2023<br>
+Time: 12-13 <br>
+Title: <br>
+Place: IMPAN, Warsaw<br>
+Crosslisted as a talk in <a href="https://grigorsarg.github.io/projects/Perspectives/">Perspectives on Set Theory<a><br>
+
+
+
 <font size="+3"> Tutorials by Boban Velickovic</font> <br>
 <font size="+3"> Title:In search of higher forcing axioms. </font> <br>
 
