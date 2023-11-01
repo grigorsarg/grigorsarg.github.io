@@ -29,7 +29,7 @@ Place:  University of Gdansk, Department of Mathematics, Room D003</li><br>
 
  <li> Date: November 2nd, 2023<br>
   Boban Velickovic, Institut de Mathématiques Jussieu - Paris Rive Gauche (IMJ-PRG)<br>
-Université Paris Cité 
+Université Paris Cité <br>
   Title: Higher forcing axioms <br>
 Time: 15:30-16:30<br>
 Place:  University of Gdansk, Department of Mathematics, Room D003
