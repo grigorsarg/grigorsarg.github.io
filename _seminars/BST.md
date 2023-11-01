@@ -53,7 +53,7 @@ Date: November 15, 2023<br>
 Time: 14:15-15:15 <br>
 Title: Higher derived limits<br>
 Place: IMPAN, Warsaw<br>
-Crosslisted as IMPAN Colloquium<br>
+Crosslisted as <a href="https://sites.google.com/view/kolokwium/home">IMPAN Colloquium<a><br>
 
 Date: November 17, 2023<br>
 Time: 12-13 <br>
