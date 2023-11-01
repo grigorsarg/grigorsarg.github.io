@@ -16,6 +16,7 @@ Topics:
 <a href="http://www.logicatorino.altervista.org/matteo_viale/">Matteo Viale (University of Turin)</a> <br>
 <a href="https://math.berkeley.edu/~steel/">John Steel (UC Berkeley) </a><br>
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (Paris) </a><br>
+<a href="https://www.illc.uva.nl/People/person/3606/Prof-dr-Jouko-V%C3%A4%C3%A4n%C3%A4nen"> Jouko Väänänen</a><br>
  5. The infor for Tutorials is listed below.
 
 
