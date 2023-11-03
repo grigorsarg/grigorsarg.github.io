@@ -60,12 +60,12 @@ Place:  University of Gdansk, Department of Mathematics, Room D003<br>
 Crosslisted as Gdansk Logic Colloquim<br>
 
 Tutorial 2<br>
-Date: November 3rd, 2023<br>
+Date: November 9th, 2023<br>
 Time: 11-12<br>
 Place: Mariacka 34/36<br>
 
 Tutorial 3<br>
-Date: November 6, 2023<br>
+Date: November 10th, 2023<br>
 Time: 11-12 <br>
 Place: Mariacka 34/36<br>
 
