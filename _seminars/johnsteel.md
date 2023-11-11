@@ -11,7 +11,7 @@ importance: 3
 <font size="+3"> Tutorials by <a href="https://math.berkeley.edu/~steel/">John Steel</a></font> <br>
 <font size="+3"> Title: Mouse Pairs and Soulsin Cardinals</font> <br>
 <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/steelabstract.pdf">Abstract</a></font> <br>
-<font size="+3"> Sponsored by the Simon's Semester, Department of Mathematics of University of Gdansk and the Armenian Center of Gdansk</font> <br>
+<font size="+3"> Sponsored by <a href="https://www.impan.pl/en/activities/banach-center">the Banach Center's Simon's Semester Program</a>, Department of Mathematics of University of Gdansk and the Armenian Center of Gdansk</font> <br>
 
 
 Tutorial 1<br>
