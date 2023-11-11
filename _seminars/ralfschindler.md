@@ -2,7 +2,7 @@
 layout: page
 title: Simon's Semester Tutorials by Ralf Schindler
 description: IMPAN, University of Gdansk and the Armenian Center of Gdansk
-img: assets/img/Gdansk.jpg
+img: assets/img/ACenter.jpg
 importance: 3
 
 ---
