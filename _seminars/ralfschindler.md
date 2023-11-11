@@ -15,7 +15,7 @@ importance: 3
 
 Tutorial 1<br>
 Date: November 2nd, 2023<br>
-Time: 14:45-17:45<br>
+Time: 16:45-17:45<br>
 Place: University of Gdansk, Department of Mathematics, Room D003<br>
 Notes:  <a href="https://grigorsarg.github.io/assets/pdf/ralfcol1.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/ralfCol.pdf">Version2</a>   <br>
 Recording: <a href="https://www.youtube.com/watch?v=Or4PRGO7JUE&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=5">Video</a><br><br>
@@ -32,7 +32,7 @@ Date: November 6th, 2023<br>
 Time: 14-15<br>
 Place: the Armenian Center, Mariacka 34/36<br>
 Notes:  <a href="https://grigorsarg.github.io/assets/pdf/ver3.pdf">Slides</a><br>
-Recording:  <a href="https://www.youtube.com/playlist?list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK">Video</a><br><br>
+Recording:  <a href="https://www.youtube.com/watch?v=RehjDgLqPFY&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=7">Video</a><br><br>
 
 
 <div class="row">
