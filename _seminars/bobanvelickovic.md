@@ -6,7 +6,7 @@ img: assets/img/ACenter1.jpeg
 importance: 3
 
 ---
-{% include figure.html path="assets/img/"  class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/Boban.jpg"  class="img-fluid rounded z-depth-1" %}
 
 <font size="+3"> Tutorials by <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic</a></font> <br><br>
 <font size="+3"> Title: Higher forcing axioms</font> <br><br>
