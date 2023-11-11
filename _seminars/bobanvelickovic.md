@@ -17,7 +17,7 @@ Tutorial 1<br>
 Date: November 2nd, 2023<br>
 Time: 15:30-16:30<br>
 Place: University of Gdansk, Department of Mathematics, Room D003<br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/IMPAN-lecture 02.11.2023 .pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/ralfCol.pdf">Version2</a>   <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/IMPAN-lecture 02.11.2023.pdf">Version1</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=Or4PRGO7JUE&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=5">Video</a><br>
 
 Tutorial 2<br>
