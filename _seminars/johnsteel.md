@@ -11,6 +11,8 @@ importance: 3
 <font size="+3"> Tutorials by <a href="https://math.berkeley.edu/~steel/">John Steel</a></font> <br>
 <font size="+3"> Title: Mouse Pairs and Soulsin Cardinals</font> <br>
 <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/steelabstract.pdf">Abstract</a></font> <br>
+<font size="+3"> Sponsored by the Simon's Semester, Department of Mathematics of University of Gdansk and the Armenian Center of Gdansk</font> <br>
+
 
 Tutorial 1<br>
 Date: October 23, 2023<br>
