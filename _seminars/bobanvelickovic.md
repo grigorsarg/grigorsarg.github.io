@@ -24,14 +24,14 @@ Tutorial 2<br>
 Date: November 9, 2023<br>
 Time: 11-12<br>
 Place: the Armenian Center, Mariacka 34/36<br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/boban1.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/boban2.pdf">Version2</a> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/boban1.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/boban(2)1.pdf">Version2</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=tdPKyEYPYy0&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=8">Video</a><br>
 
 Tutorial 3<br>
 Date: November 6th, 2023<br>
 Time: 14-15<br>
 Place: the Armenian Center, Mariacka 34/36<br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/boban3.pdf">Slides</a><br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/boban3.pdf">Notes</a><br>
 Recording:  <a href="https://www.youtube.com/watch?v=wGgUbfQ20ks&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=9">Video</a><br>
 
 
