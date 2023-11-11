@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Simon's Semester Tutorials by Ralf Schindler
+title: Simon's Semester Tutorials by Boban Velickovic
 description: IMPAN, University of Gdansk and the Armenian Center of Gdansk
-img: assets/img/Gdansk.jpg
+img: assets/img/ACenter1.jpeg
 importance: 3
 
 ---
 {% include figure.html path="assets/img/ralf1.jpg"  class="img-fluid rounded z-depth-1" %}
 
-<font size="+3"> Tutorials by <a href="http://ivv5hpp.uni-muenster.de/u/rds/">Ralf Schindler</a></font> <br>
-<font size="+3"> Title: The *-version of Martin's Maximum</font> <br>
+<font size="+3"> Tutorials by <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic</a></font> <br><br>
+<font size="+3"> Title: Higher forcing axioms</font> <br><br>
 <font size="+3"> Sponsored by <a href="https://www.impan.pl/en/activities/banach-center">the Banach Center's Simon's Semester Program</a>, <a href="https://en.mfi.ug.edu.pl/">Department of Mathematics of University of Gdansk</a> and <a href="https://www.facebook.com/people/Zwi%C4%85zek-Ormia%C5%84ski-w-Gda%C5%84sku/100064669963190/?refid=13">the Armenian Center of Gdansk</a></font> <br><br>
 
 
