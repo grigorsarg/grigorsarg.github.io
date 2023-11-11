@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simon's Semester Tutorials by John Steel
-description: IMPAN and University of Gdansk
+description: IMPAN, University of Gdansk and the Armenian Center of Gdansk
 img: assets/img/Gdansk.jpg
 importance: 3
 
