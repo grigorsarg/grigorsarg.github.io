@@ -6,7 +6,7 @@ img: assets/img/Gdansk.jpg
 importance: 3
 
 ---
-{% include figure.html path="assets/img/steel5.jpg"  class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/ralf1.jpg"  class="img-fluid rounded z-depth-1" %}
 
 <font size="+3"> Tutorials by <a href="http://ivv5hpp.uni-muenster.de/u/rds/">Ralf Schindler</a></font> <br>
 <font size="+3"> Title: The *-version of Martin's Maximum</font> <br>
