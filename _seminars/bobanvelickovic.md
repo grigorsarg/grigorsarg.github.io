@@ -6,7 +6,7 @@ img: assets/img/ACenter1.jpeg
 importance: 3
 
 ---
-{% include figure.html path="assets/img/ralf1.jpg"  class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/"  class="img-fluid rounded z-depth-1" %}
 
 <font size="+3"> Tutorials by <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic</a></font> <br><br>
 <font size="+3"> Title: Higher forcing axioms</font> <br><br>
@@ -17,7 +17,7 @@ Tutorial 1<br>
 Date: November 2nd, 2023<br>
 Time: 15:30-16:30<br>
 Place: University of Gdansk, Department of Mathematics, Room D003<br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/IMPAN-lecture 02.11.2023.pdf">Version1</a> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/BobanSlides.pdf">Version1</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=Or4PRGO7JUE&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=5">Video</a><br>
 
 Tutorial 2<br>
