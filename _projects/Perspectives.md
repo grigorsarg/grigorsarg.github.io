@@ -47,6 +47,14 @@ IMPAN is very conveninetly located, and there are many hotels all around IMPAN. 
 
 <font size="+3">  <a href="https://structures-semester.mimuw.edu.pl/DescriptiveSetTheory/6Local%20Info.html">Local Information</a> <br>
 
+<font size="+3">  Other places to eat <br>
+
+<font size="+1">  <a href="https://www.wieszcozjesz.pl/"> This one </a> <br>
+
+<font size="+1">  <a href=" https://www.lalka-nalesniki.pl/"> This one </a> <br>
+<font size="+1">   And these ones: Uki Green, vegan ramen in the back of impan (take the back door) and Hala Koszyki <br>
+
+
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
 <font size="+3"> Scientific Committee:</font> Omer Ben Neria, Grigor Sargsyan and Piotr Zakrzewski <br>
