@@ -45,7 +45,7 @@ Benjamin Siskind (TU Wien)<br>
 
 IMPAN is very conveninetly located, and there are many hotels all around IMPAN. Here are some names: Residence 1898, Mercure, Novotel, Metropol. Airbnb is also a good option. Here is IMPAN'S <a href="https://www.google.com/maps/place/Mathematical+Institute+of+the+Polish+Academy+of+Sciences/@52.2214313,21.0121334,17z/data=!3m1!4b1!4m6!3m5!1s0x471eccef23a16a9b:0x84d479b4e7e9993d!8m2!3d52.221428!4d21.0147083!16s%2Fg%2F122_gs0r?entry=ttu">location.</a></font><br>
 
-<font size="+3">  <a href="https://structures-semester.mimuw.edu.pl/DescriptiveSetTheory/6Local%20Info.html">Local Information</a>< <br>
+<font size="+3">  <a href="https://structures-semester.mimuw.edu.pl/DescriptiveSetTheory/6Local%20Info.html">Local Information</a> <br>
 
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
 
