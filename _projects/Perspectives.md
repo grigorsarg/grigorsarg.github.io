@@ -53,7 +53,7 @@ IMPAN is very conveninetly located, and there are many hotels all around IMPAN. 
 
 <font size="+1">  <a href="https://www.lalka-nalesniki.pl/"> This one </a> <br>
 
-<font size="+1">   And these ones: Uki Green, vegan ramen in the back of impan (take the back door) and Hala Koszyki <br>
+<font size="+1">   And these ones: Uki Green and Hala Koszyki <br>
 
 
 <font size="+3"> Part of <a href="https://www.impan.pl/en/activities/banach-center/conferences/23-simons-08">Structures Semester</a></font> <br>
