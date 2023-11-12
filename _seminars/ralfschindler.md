@@ -24,7 +24,7 @@ Tutorial 2<br>
 Date: November 3rd, 2023<br>
 Time: 14-15<br>
 Place: the Armenian Center, Mariacka 34/36<br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/version1.pdf">Version1</a>,  <a href="https://grigorsarg.github.io/assets/pdf/versiona2.pdf">Version2</a> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/version1.pdf">Version1</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=ldterPzzsL4&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=6">Video</a><br><br>
 
 Tutorial 3<br>
