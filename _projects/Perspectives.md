@@ -35,6 +35,10 @@ Benjamin Siskind (TU Wien)<br>
 
 <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/Schedule.pdf">Schedule</a> </font> <br>
 
+<font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/abstracts.pdf">Title and Abstracts</a> </font> <br>
+
+<font size="+3"> All talks will be at IMPAN, Room 321 </font> <br>
+
 <font size="+3"> <a href="https://grigorsarg.github.io/rp.html">Registered Participants</a> (Registration Dedline was October 25, but the registration is not required)</font> <br>
 
 <font size="+3">  Suggested Hotels <br>
