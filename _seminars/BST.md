@@ -17,6 +17,7 @@ Topics:
 <a href="https://math.berkeley.edu/~steel/">John Steel (UC Berkeley) </a><br>
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (Paris) </a><br>
 <a href="https://www.illc.uva.nl/People/person/3606/Prof-dr-Jouko-V%C3%A4%C3%A4n%C3%A4nen"> Jouko Väänänen</a><br>
+<a href="https://people.clas.ufl.edu/zapletal/"> Jindra Zapletal</a><br>
  5. The infor for Tutorials is listed below.
 
 
@@ -28,6 +29,33 @@ Zoom Info:
 Meeting ID: 897 1539 0286
 
 Passcode: 763015
+
+<font size="+3"> Tutorials by Jindra Zapletal</font> <br>
+<font size="+3"> Title:  Geometric set theory </font> <br>
+Abstract: The minicourse will outline the methodology of obtaining independence results in the choiceless theory ZF+DC, as described in the book Geometric Set Theory with coauthor Paul Larson. Within its scope, the method is much more efficient and intuitive than all earlier ones. It allows detailed ZF+DC comparison of various objects currently considered in Borel context. <br><br>
+
+<font size="+3"> Zoom Streaming: https://us02web.zoom.us/j/89366420630?pwd=c2hnTDhTelZiV3VCTWd4eG5oTlFlUT09 </font><br><br>
+ 
+
+Lecture 1 Info<br>
+Date: November 20, 2023<br>
+Time: 13:30-14:30 <br>
+Place:  IMPAN Warsaw, Room 405<br>
+Abstract: I will sketch the main concerns, definitions, and general theorems. As one consequence of this development, I will get the following: It is consistent with ZF+DC that there is a non-principal ultrafilter on natural numbers, yet no maximal almost disjoint family of sets of natural numbers exists. <br>
+
+Lecture 2 Info<br>
+Date: November 21, 2023<br>
+Time: 13:30-14:30 <br>
+Place:  IMPAN Warsaw, Room 405<br>
+Abstract: I will show how to stratify the amalgamation arguments used in geometric set theory. I will apply the stratification to independence problems in algebraic geometry: It is consistent with ZF+DC to have a Hamel basis for R but not a transcendence basis for R over Q. For any positive integer n, let Gn be the graph on n-dimensional Euclidean space connecting points of rational Euclidean distance. It is consistent with ZF+DC that Gn has countable chromatic number while Gn+1 does not. <br>
+
+Lecture 3 Info<br>
+Date: November 22, 2023<br>
+Time: 13:30-14:30 <br>
+Place:  IMPAN Warsaw, Room 405<br>
+Abstract:  I will show how to obtain independence results in the realm of locally countable descriptive combinatorics. A sample theorem:
+Let G be a locally finite Borel graph of true chromatic number n. It is consistent with ZF+DC that G has chromatic number at most 2n-1, and there is no Vitali set. <br><br>
+
 
 <font size="+3"> Tutorials by Ralf Schindler</font> <br>
 <font size="+3"> Title:    title: The *-version of Martin's Maximum </font> <br>
