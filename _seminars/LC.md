@@ -17,8 +17,11 @@ Omer Ben Neria, Hebrew University (Part of Simon's Semester Program)<br>
 
 
 <li> November 23, 2023<br>
-Matteo Viale, Hebrew University (Part of Simon's Semester Program)<br>
-  Title: </li><br>
+Matteo Viale, University of Torino (Part of Simon's Semester Program)<br>
+Title: Strong forcing axioms and the continuum problem <br>
+ABSTRACT: A topological approach to forcing axioms considers them as strong forms of the Baire category theorem; an algebraic approach describes certain properties of "algebraic closure" for the universe of sets that can be derived from them. The goal of the talk is to outline the link betwen the geometric and algebraic points of view. <br>
+
+The talk is meant for a general mathematical audience. In particular familiarity with logic or set theory is not assumed.</li><br>
 
 
 <li> November 2, 2023<br>
