@@ -19,7 +19,7 @@ importance: 2
     
  Speaker: Jouko Vaananen,  University of Helsinki (Part of Simon's Semester Program)<br>
   Time: 17:00-18:00<br>
-  Place:  University of Gdansk, Department of Mathematics, Room D003 <br>
+  Place:  University of Gdansk, Department of Mathematics, Room D003<br>
   Title: Inner models from extended logics </li><br>
 
 
