@@ -15,7 +15,7 @@ importance: 2
   Speaker: Juliette Kenedy, University of Helsinki (Part of Simon's Semester Program)<br>
   Time: 16:00-17:00<br>
   Place:  University of Gdansk, Department of Mathematics, Room D003<br>
-  Title: On the mathematical sublime  <<br><br>
+  Title: On the mathematical sublime <br><br>
     
  Speaker: Jouko Vaananen,  University of Helsinki (Part of Simon's Semester Program)<br>
   Time: 17:00-18:00<br>
