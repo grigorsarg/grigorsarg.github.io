@@ -20,6 +20,43 @@ Topics:
 <a href="https://people.clas.ufl.edu/zapletal/"> Jindra Zapletal</a><br>
  5. The infor for Tutorials is listed below.
 
+<font size="+3"> Tutorials by Matteo Viale </font> <br>
+<font size="+3"> Title: The model companion of set theory </font> <br>
+
+Lecture 1<br>
+Date: November 23, 2023
+Time: 16:00-17:00<br>
+Title: Strong forcing axioms and the continuum problem<br>
+Place: University of Gdansk, Department of Mathematics, Room D003<br>
+
+Lecture 2<br>
+Date: December 4, 2023
+Time: 11:00-12:00<br>
+Title: The model companion of set theory<br>
+Place: IMPAN SOPOT<br>
+
+Lecture 2 <br>
+Date: December 11, 2023
+Time: 11:00-12:00<br>
+Place: University of Gdansk, Room A113 <br>
+
+Lecture 3 <br>
+Date: December 11, 2023
+Time: 12:00-13:00<br>
+Place: University of Gdansk, Room A113 <br>
+
+Lecture 4 <br>
+Date: December 12, 2023
+Time: 14:00-15:00<br>
+Place: University of Gdansk, Room A113 <br>
+
+Lecture 5 Info<br>
+Date: December 14, 2023<br>
+Time:  17:00-18:00 <br>
+Place: University of Gdansk, Room D003 <br>
+Title: Inner models from extended logics <br>
+
+
 <font size="+3"> Tutorials by Jouko Väänänen </font> <br>
 <font size="+3"> Title:  Inner models from extended logics </font> <br>
 
@@ -37,13 +74,13 @@ Place: IMPAN, Sopot <br>
 Title: Inner models from extended logics <br>
 
 Lecture 3 Info<br>
-Date: December 13, 2023<br>
+Date: December 12, 2023<br>
 Time:  13:00-14:00 <br>
 Place: University of Gdansk, Room A113 <br>
 Title: Inner models from extended logics <br>
 
 Lecture 4 Info<br>
-Date: December 13, 2023<br>
+Date: December 14, 2023<br>
 Time:  16:00-17:00 <br>
 Place: University of Gdansk, Room D003 <br>
 Title: Inner models from extended logics <br>
