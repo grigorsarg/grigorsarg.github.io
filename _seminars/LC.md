@@ -11,9 +11,16 @@ importance: 2
 
 <ol>
   
-<li> November 30, 2023<br>
-Omer Ben Neria, Hebrew University (Part of Simon's Semester Program)<br>
-  Title: </li><br>
+<li> December 6, 2023<br>
+  Speaker: Juliette Kenedy, University of Helsinki (Part of Simon's Semester Program)<br>
+  Time: 16:00-17:00<br>
+  Place:  University of Gdansk, Department of Mathematics, Room D003
+  Title: On the mathematical sublime  <<br><br>
+    
+ Speaker: Jouko Vaananen,  University of Helsinki (Part of Simon's Semester Program)<br>
+  Time: 17:00-18:00<br>
+  Place:  University of Gdansk, Department of Mathematics, Room D003
+  Title: Inner models from extended logics </li><br>
 
 
 <li> November 23, 2023<br>
