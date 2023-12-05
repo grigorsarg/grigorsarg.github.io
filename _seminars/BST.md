@@ -103,11 +103,11 @@ Place:  University of Gdansk, Room A113 <br>
 Title: Extracting syntax from semantics <br>
 
 Lecture 3 Info<br>
-Speaker: Juliette Kenedy, University of Helsinki (Part of Simon's Semester Program)
-Time: 16:00-17:00
-Place: University of Gdansk, Department of Mathematics, Room D003
-Title: On the mathematical sublime
-Info: Cross-listed as Gdansk Logic Colloquium 
+Date: December 7, 2023 <br>
+Time: 16:00-17:00 <br>
+Place: University of Gdansk, Department of Mathematics, Room D003<br>
+Title: On the mathematical sublime <br>
+Info: Cross-listed as Gdansk Logic Colloquium <br><br>
 
 
 
