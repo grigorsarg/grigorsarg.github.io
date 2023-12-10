@@ -71,7 +71,7 @@ Info: Cross-listed as Gdansk Logic Colloquium<br><br>
 Lecture 2 Info<br>
 Date: December 11, 2023<br>
 Time:  10:00-11:00 <br>
-Place: IMPAN, Sopot <br>
+Place: University of Gdansk, Room A113 <br>
 Title: Inner models from extended logics <br>
 
 Lecture 3 Info<br>
