@@ -18,6 +18,7 @@ Topics:
 <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Boban Velickovic (Paris) </a><br>
 <a href="https://www.illc.uva.nl/People/person/3606/Prof-dr-Jouko-V%C3%A4%C3%A4n%C3%A4nen"> Jouko Väänänen</a><br>
 <a href="https://people.clas.ufl.edu/zapletal/"> Jindra Zapletal</a><br>
+<a href="https://www.mv.helsinki.fi/home/jkennedy/">Juliette Kennedy</a><br>
  5. The infor for Tutorials is listed below.
 
 <font size="+3"> Tutorials by Matteo Viale </font> <br>
