@@ -22,7 +22,7 @@ Place: University of Gdansk, Department of Mathematics, Room D003<br>
 Title: Inner models from extended logics<br>
 Info: Cross-listed as Gdansk Logic Colloquium<br>
 Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jol1.pdf">Slides</a> <br>
-Recording: <a href=https://www.youtube.com/watch?v=TxvPCONMFdo&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=16">Video</a><br><br>
+Recording: <a href="https://www.youtube.com/watch?v=TxvPCONMFdo&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=16">Video</a><br><br>
 
 Lecture 2 Info<br>
 Date: December 11, 2023<br>
