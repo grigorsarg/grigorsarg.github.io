@@ -6,7 +6,7 @@ img: assets/img/agorky.jpg
 importance: 3
 
 ---
-{% include figure.html path="assets/img/Boban.jpg"  class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/virap.jpg"  class="img-fluid rounded z-depth-1" %}
 
 <font size="+3"> Tutorials by <a href="https://www.mv.helsinki.fi/home/jkennedy/">Juliette Kennedy</a></font> <br><br>
 <font size="+3"> Title: A perspective on the first order logic</font> <br><br>
