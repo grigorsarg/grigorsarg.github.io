@@ -34,9 +34,9 @@ Date: December 7, 2023 <br>
 Time: 16:00-17:00 <br>
 Place: University of Gdansk, Department of Mathematics, Room D003<br>
 Title: On the mathematical sublime <br>
-Info: Cross-listed as Gdansk Logic Colloquium <br><br>
+Info: Cross-listed as Gdansk Logic Colloquium <br>
 Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jultalk3.pdf">Slides</a> <br>
-Recording: <a href="https://www.youtube.com/watch?v=_yuyjfpTfnY&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=15">Video</a><br>
+Recording: <a href="https://www.youtube.com/watch?v=_yuyjfpTfnY&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=15">Video</a><br><br>
 
 
 <div class="row">
