@@ -53,10 +53,12 @@ Two additional lectures: <br>
 Date: December 4th, 2023<br>
 Time: 10:00-11:00 <br>
 Place: IMPAN, Sopot<br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/bobandec4.pdf">notes</a><br>
 
 Date: December 5, 2023<br>
 Time: 13-14 <br>
 Place: University of Gdansk, Room A113 <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/bobandec5.pdf">notes</a><br>
 Recording:  <a href="https://www.youtube.com/watch?v=KneCfl-npvY&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=12">Video</a><br>
 
 An additional lecture by Obrad Kasum: <br>
@@ -65,7 +67,7 @@ Date: December 17, 2023<br>
 Title: Marginalia to a theorem of Aspero and Schindler </br>
 Time: 13-14 <br>
 Place: University of Gdansk, Room A113 <br>
-Slide:  <a href="https://grigorsarg.github.io/assets/pdf/marg.pdf">slides</a>
+Slide:  <a href="https://grigorsarg.github.io/assets/pdf/marg.pdf">slides</a><br>
 Recording:  <a href="https://www.youtube.com/watch?v=-tdWSdJQy-E&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=24">Video</a><br>
 
 
