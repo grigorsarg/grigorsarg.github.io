@@ -2,13 +2,13 @@
 layout: page
 title: Simon's Semester Tutorials by Juliette Kennedy
 description: IMPAN, University of Gdansk and the Armenian Center of Gdansk
-img: assets/img/agorky.jpg
+img: assets/img/simbiosis.jpg
 importance: 3
 
 ---
-{% include figure.html path="assets/img/virap.jpg"  class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/pac.png"  class="img-fluid rounded z-depth-1" %}
 
-<font size="+3"> Tutorials by <a href="https://www.mv.helsinki.fi/home/jkennedy/">Juliette Kennedy</a></font> <br><br>
+<font size="+3"> Tutorials by <a href="https://www.illc.uva.nl/People/person/3606/Prof-dr-Jouko-V%C3%A4%C3%A4n%C3%A4nen"> Jouko Väänänen</a><br>
 <font size="+3"> Title: A perspective on the first order logic</font> <br><br>
 <font size="+3"> Sponsored by <a href="https://www.impan.pl/en/activities/banach-center">the Banach Center's Simon's Semester Program</a>, <a href="https://en.mfi.ug.edu.pl/">Department of Mathematics of University of Gdansk</a> and <a href="https://www.facebook.com/people/Zwi%C4%85zek-Ormia%C5%84ski-w-Gda%C5%84sku/100064669963190/?refid=13">the Armenian Center of Gdansk</a></font> <br><br>
 
