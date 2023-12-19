@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Simon's Semester Tutorials by Juliette Kennedy
+title: Simon's Semester Tutorials by Jouko Vaananen 
 description: IMPAN, University of Gdansk and the Armenian Center of Gdansk
-img: assets/img/simbiosis.jpg
+img: assets/img/simbiosis.jpeg
 importance: 3
 
 ---
