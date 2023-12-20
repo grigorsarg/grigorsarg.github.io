@@ -29,7 +29,7 @@ Date: December 11, 2023<br>
 Time:  10:00-11:00 <br>
 Place: University of Gdansk, Room A113 <br>
 Title: Inner models from extended logics <br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jok11.pdf">Slides</a> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jok11.pdf">notes</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=XKsEMg1SA0s&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=18">Video</a><br><br>
 
 Lecture 3 Info<br>
@@ -37,7 +37,7 @@ Date: December 12, 2023<br>
 Time:  13:00-14:00 <br>
 Place: University of Gdansk, Room A113 <br>
 Title: Inner models from extended logics <br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jok12.pdf">Slides</a> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jok12.pdf">notes</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=tAKK3sVUE5Y&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=20">Video</a><br><br>
 
 Lecture 4 Info<br>
@@ -45,7 +45,7 @@ Date: December 14, 2023<br>
 Time:  16:00-17:00 <br>
 Place: University of Gdansk, Room D003 <br>
 Title: Inner models from extended logics <br>
-Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jok14.pdf">Slides</a> <br>
+Notes:  <a href="https://grigorsarg.github.io/assets/pdf/jok14.pdf">notes</a> <br>
 Recording: <a href="https://www.youtube.com/watch?v=UYLdBoUpwPQ&list=PLto-hJZvxwyZcarpl7mSOlJoVk2KIoNuK&index=21">Video</a><br><br>
 
 
