@@ -6,7 +6,7 @@ img: assets/img/ACenter1.jpeg
 importance: 3
 
 ---
-
+{% include figure.html path="assets/img/sanlaz.jpeg"  class="img-fluid rounded z-depth-1" %}
 
 <font size="+3"> Tutorials by <a href="http://www.logicatorino.altervista.org/matteo_viale/">Matteo Viale</a></font> <br><br>
 <font size="+3"> Title:  Strong forcing axioms and the continuum problem</font> <br><br>
