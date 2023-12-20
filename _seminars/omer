@@ -6,7 +6,7 @@ img: assets/img/mamdad.jpeg
 importance: 3
 
 ---
-{% include figure.html path="assets/img/armmon.jpg"  class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/armmon.jpeg"  class="img-fluid rounded z-depth-1" %}
 
 <font size="+3"> Tutorials by <a href="https://webusers.imj-prg.fr/~boban.velickovic/">Omer Ben Neria</a></font> <br><br>
 <font size="+3"> Title: Ultrapower Axiom and GCH</font> <br><br>
