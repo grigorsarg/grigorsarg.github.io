@@ -33,6 +33,9 @@ Benjamin Siskind (TU Wien)<br>
 <a href="https://scholar.google.cz/citations?user=gNBj5ooAAAAJ&hl=en">David Chodounský (Institute of Mathematics CAS) </a><br><br>
 </font>
 
+<font size="+3"> <a href="https://grigorsarg.github.io/assets/pages/slides.html">Slides</a> </font> <br>
+
+
 <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/Schedule.pdf">Schedule</a> </font> <br>
 
 <font size="+3"> <a href="https://grigorsarg.github.io/assets/pdf/abstracts.pdf">Title and Abstracts</a> </font> <br>
