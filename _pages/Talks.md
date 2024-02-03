@@ -10,6 +10,7 @@ nav_order: 2
 
   <ol>
   <li> Karp Prize Lecture (For John Steel), The 2024 North American Annual Meeting of the Association of Symbolic Logic,Iowa State University in Ames, Iowa May 14-17, 2024 </li><br>
+    <li> TBA, The Core Model Seminar, Online, 3 Lectures, April 2, 9 and 16, 2024, CMU </li><br> 
   <li> 'HOM representations for sets of sets of reals", Generalized Baire Space and Large Cardinals, February 8-10, 2024, Bristol, UK </li><br>
   <li> "Forcing Axioms and Determinacy Axioms, towards a unified theory of infinity", IMPAN Colloquim, October 18, Warsaw, 2023, </li><br>
   <li> " Forcing over models of determinacy", 17th International Luminy Workshop in Set Theory,October 9-13, Luminy,France, 2023.</li><br>
