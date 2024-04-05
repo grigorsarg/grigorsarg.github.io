@@ -9,6 +9,3 @@ related_posts: false
 ***
 
 <a href="https://prac.im.pwr.edu.pl/~twowlc/">The 2nd Wroclaw Logic Conference, Wroclaw, May 31st -- June 2nd.</a> 
-
-
-
