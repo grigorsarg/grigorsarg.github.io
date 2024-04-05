@@ -25,6 +25,6 @@ Currently, I am a Professor IMPAN at the Institute of Mathematics of Polish Acad
 
 <font size="+2">Email:</font>  gsargsyan at impan dot pl
 
-I am also the elected President of the Talking Chipmunk's Society. 
+I am also the elected President of the Talking Chipmunk's Society. While currently the society and its president do absolutely nothing, we aspire to become the leading chipmunk organization in the world, representing and fighting not just for the rights of the talking chipmunks but all the cute little chipmunks of the world. If you for one reason or another would like to support us then please create a title for yourself and elect yourself to it. That is how chipmunks role.
 
 
