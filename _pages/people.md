@@ -10,14 +10,21 @@ nav_order: 6
 Douglass Blue, 2023<br>
 Christopher Turner, 2023-2024<br>
 
+<font size="+2">MS Students</font><br>
+Umutcan Kaya, University of Gdansk, 2024-Present<br>
+Umutcan Kaya, University of Gdansk, 2024-Present<br>
+Obrad Kasum, Universite de Paris, joint with Boban Velickovic, MS 2021, PhD 2025<br>
+ Derek Levinson, UCLA, joint with Itay Neeman, PhD expected 2023.<br>
+ <a href="https://sites.math.rutgers.edu/~jch258/ ">James Holland</a>, Rutgers University, 2017-2023<br>
+ <a href="https://sites.google.com/view/takehikogappo/home">Takehiko Gappo</a>, Rutgers University, 2018-2022<br>
 
-<font size="+2">Students</font><br>
-Jan Kostrzon, University of Warsaw, joint with Marcin Kysiak, MS expected 2023.<br>
-	 Derek Levinson, UCLA, joint with Itay Neeman, PhD expected 2023.<br>
-	Obrad Kasum, Universite de Paris, joint with Boban Velickovic, MS 2021, PhD 2021-current<br>
-	<a href="https://sites.math.rutgers.edu/~jch258/ ">James Holland</a>, Rutgers University, 2017-2023<br>
-	<a href="https://sites.google.com/view/takehikogappo/home">Takehiko Gappo</a>, Rutgers University, 2018-2022<br>
-	Martin Koeberl, MS, Rutgers University, 2018<br>
+	
+<font size="+2">MS Students</font><br>
+Olaf Kołodziejski, University of Gdansk, 2024-Present
+Jan Kostrzon, University of Warsaw, joint with Marcin Kysiak, 2023.<br>
+Martin Koeberl, MS, Rutgers University, 2018<br>
+
+	
 	
 	
 		
