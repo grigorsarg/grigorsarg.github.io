@@ -8,6 +8,6 @@ related_posts: false
 
 ***
 
-<a href="https://grigorsarg.github.io/projects/Perspectives/">The Perspectives Conference at IMPAN, Warsaw, November 12-18.</a> 
+<a https://gdn-logic.github.io >Our new web site maintained by Rahman Mohammadpour</a> 
 
 
