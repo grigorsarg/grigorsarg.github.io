@@ -6,11 +6,12 @@ description: Students, Visitors and others
 nav: true
 nav_order: 6
 ---
+
 <font size="+2">Postdocs</font><br>
 Douglass Blue, 2023<br>
 Christopher Turner, 2023-2024<br>
 
-<font size="+2">MS Students</font><br>
+<font size="+2">PhD Students</font><br>
 Umutcan Kaya, University of Gdansk, 2024-Present<br>
 Umutcan Kaya, University of Gdansk, 2024-Present<br>
 Lukas Koschat, Technical University of Vienna, joint with Sandra Mueller, 2023-Present<br>
@@ -26,9 +27,6 @@ Olaf Kołodziejski, University of Gdansk, 2024-Present<br>
 Jan Kostrzon, University of Warsaw, joint with Marcin Kysiak, 2023.<br>
 Martin Koeberl, MS, Rutgers University, 2018<br>
 
-	
-	
-	
 		
 <font size="+2">Visitors</font>
 
