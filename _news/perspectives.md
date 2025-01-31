@@ -8,6 +8,6 @@ related_posts: false
 
 ***
 
-<a https://gdn-logic.github.io >Our new web site maintained by Rahman Mohammadpour</a> 
+<a href="https://gdn-logic.github.io" >Our new web site maintained by Rahman Mohammadpour</a> 
 
 
