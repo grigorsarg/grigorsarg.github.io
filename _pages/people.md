@@ -12,7 +12,7 @@ Douglass Blue, 2023<br>
 Christopher Turner, 2023-2024<br>
 
 <font size="+2">PhD Students</font><br>
-Umutcan Kaya, University of Gdansk, 2024-Present<br>
+Arijeet Mishra, University of Gdansk, 2024-Present<br>
 Umutcan Kaya, University of Gdansk, 2024-Present<br>
 Lukas Koschat, Technical University of Vienna, joint with Sandra Mueller, 2023-Present<br>
 Jan Kostrzon, University of Warsaw, joint with Marcin Kysiak, 2023-Present<br>
