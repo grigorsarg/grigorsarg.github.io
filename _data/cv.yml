@@ -8,7 +8,7 @@
     - name: Email
       value: gsargsyan at impan pl
     - name: Languages
-      value: Armenian, English, Polish, Russian 
+      value: Armenian, English, Polish (Basic), Russian (Basic)
 
 - title: Education
   type: time_table
