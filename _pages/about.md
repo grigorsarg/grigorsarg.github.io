@@ -21,9 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Professor IMPAN at the <a href="https://www.impan.pl/en">Institute of Mathematics of Polish Academy of Sciences<a/>.
 
-I use <a href="https://archlinux.org">Arch<a/>, btw. You should be too!
+I use <a href="https://archlinux.org">Arch<a/>, btw. 
 
-<font size="+2">Research:</font> My research is mostly in set theory, and within set theory, I am interested in inner model theory and its connections with forcing axioms and determinacy axioms.
+<font size="+2">Research:</font> My research is mostly in <a href="https://en.wikipedia.org/wiki/Set_theory">set theory<a/>, and within set theory, I am interested in <a href="https://en.wikipedia.org/wiki/Inner_model_theory">inner model theory<a/> and its connections with <a href="https://en.wikipedia.org/wiki/Martin%27s_axiom">Forcing Axioms<a/> and <a href="https://en.wikipedia.org/wiki/Axiom_of_determinacy">Determinacy Axioms<a/>.
 
 <font size="+2">Email:</font>  gsargsyan at impan dot pl
 
