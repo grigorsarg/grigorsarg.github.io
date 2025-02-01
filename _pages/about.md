@@ -25,7 +25,7 @@ Currently, I am a Professor IMPAN at the Institute of Mathematics of Polish Acad
 
 <font size="+2">Email:</font>  gsargsyan at impan dot pl
 
-<font size="+2">Gdansk Logic Community</font>  https://gdn-logic.github.io
+<font size="+2">Gdansk Logic Community</font>  <a href="https://gdn-logic.github.io">The web site of Gdansk Logic Community<a/>
 
 
 
