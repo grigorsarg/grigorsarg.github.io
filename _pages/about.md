@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Professor IMPAN at the <a href="https://www.impan.pl/en">Institute of Mathematics of Polish Academy of Sciences<a/>.
 
+I use Arch, btw
+
 <font size="+2">Research:</font> My research is mostly in set theory, and within set theory, I am interested in inner model theory and its connections with forcing axioms and determinacy axioms.
 
 <font size="+2">Email:</font>  gsargsyan at impan dot pl
