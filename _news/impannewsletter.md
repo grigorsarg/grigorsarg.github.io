@@ -8,4 +8,4 @@ related_posts: false
 
 ***
 
-<a href="https://www.impan.pl/nr_2024_www_1.pdf">IMPAN Newsletter</a>
+<a href="https://impan.pl/images/newsletter/Newsletter_nr-17_2024.pdf">IMPAN Newsletter</a>
