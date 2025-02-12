@@ -10,7 +10,7 @@ nav_order: 2
 
   <ol>
   <li> Nairian Models. The Roaming Logic Conference, Warsaw, 9 – 11 May 2025 </li><br>
-  <li> Gödel`s Birthday Colloquim, TU Wien, April 28</li>
+  <li> Gödel`s Birthday Colloquim, TU Wien, April 28</li><br>
   <li> Nairian Models, Biweekly Seminars at the Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, February 20th<br>
   <li> (The 2025 Hjorth Lecture) Unreachability within the projective hierarchy. VIG 2025, February 7-9, 2025 </li><br>
   <li> Recent advances in descriptive inner model theory,  European Set Theory Conference, September 16–20, 2024, Münster, Germany </li><br>
