@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Address-- IMPAN, Gdansk</p>
-    <p>Antoniego Abrahama 18</p>
-    <p>81-825, Sopot</p>
+    <p>Address-- IMPAN, Warsaw</p>
+    <p>ul. Śniadeckich 8</p>
+    <p>00-656 Warsaw, Poland</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
