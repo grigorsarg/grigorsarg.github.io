@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-{% assign upcoming = site.data.academic_talks | where: 'upcoming', true | sort: 'date' %}
+{% assign upcoming = site.data.academic_talks | where: 'upcoming', true | sort: 'date' | reverse %}
 {% if upcoming.size > 0 %}
 <h2>Upcoming</h2>
 <ul>
@@ -28,7 +28,7 @@ nav_order: 2
 <li class="mb-3">Nairian Models. The Roaming Logic Conference, Warsaw, 9–11 May 2025.</li>
 <li class="mb-3">Gödel's Program, Gödel's Birthday Colloquium, TU Wien, 28 April 2025.</li>
 <li class="mb-3">Nairian Models, Biweekly Seminars at the Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, 20 February 2025.</li>
-<li class="mb-3">The 2025 Hjorth Lecture: Unreachability within the projective hierarchy. VIG 2025, 7–9 February 2025.</li>
+<li class="mb-3">The 2025 Hjorth Lecture: Unreachability within the projective hierarchy. <a href="https://www.math.ucla.edu/~ineeman/Conf/VIG2025/">VIG 2025</a>, UCLA, 8 February 2025.</li>
 <li class="mb-3">Recent advances in descriptive inner model theory, European Set Theory Conference, 16–20 September 2024, Münster, Germany.</li>
 <li class="mb-3">The universally Baire sets, SETTOP 2024 (Novi Sad Conference in Set Theory and General Topology), 19–22 August 2024, Novi Sad, Serbia.</li>
 <li class="mb-3">Karp Prize Lecture (for John Steel), the 2024 North American Annual Meeting of the Association for Symbolic Logic, Iowa State University, Ames, Iowa, 14–17 May 2024.</li>

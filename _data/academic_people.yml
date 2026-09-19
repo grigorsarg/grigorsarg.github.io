@@ -1,3 +1,4 @@
+# Current PhD status confirmed by Grigor Sargsyan on 2026-09-19: Dominik added; Noah removed.
 # Academic information checked on 2026-09-19 against the group directory,
 # the owner's current academic records, and the IMPAN 2026/27 admissions notice.
 # Omit historical postdoc dates where the available records disagree.
@@ -10,7 +11,7 @@
       detail: IMPAN; 2026–present; NCN MAESTRO 15.
     - name: Sebastiano Thei
       detail: IMPAN; 2026–present; NCN WEAVE–UNISONO.
-- heading: PhD students and doctoral co-supervision
+- heading: Current PhD students and doctoral co-supervision
   people:
     - name: Corentin Lagadec
       detail: TU Wien; doctoral co-supervision with William Chan (2026).
@@ -23,13 +24,9 @@
       detail: TU Wien; jointly supervised with Sandra Müller; 2023–present.
     - name: Jan Kostrzon
       detail: University of Warsaw; jointly supervised with Marcin Kysiak; 2023–present.
-    - name: Noah Slavitch
-      detail: University of Warsaw.
-- heading: Incoming PhD students, 2026–2027
-  people:
     - name: Dominik Bargieła
       url: https://www.impan.pl/en/institute/news/1884-six-new-phd-students-join-the-impan-community
-      detail: Warsaw Doctoral School of Mathematics and Computer Science (University of Warsaw and IMPAN); admitted for 2026–2027. Research topic — Large cardinals in Nairian Model.
+      detail: Warsaw Doctoral School of Mathematics and Computer Science (University of Warsaw and IMPAN); 2026–present. Research topic — Large cardinals in Nairian Models.
 - heading: Current master's students
   people:
     - name: Olaf Kołodziejski

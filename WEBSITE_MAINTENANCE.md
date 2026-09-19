@@ -27,7 +27,7 @@ For a talk, add one YAML record. Quote the ISO `date` string, provide a human-re
 
 For a person, edit their entry in `academic_people.yml` or move it to the appropriate section. Do not infer individual supervision solely from membership in a research group. Verify new appointments and distinguish incoming students from current students.
 
-News items use `layout: post`, an announcement date, `inline: false`, and `related_posts: false`. Permanent statements belong in `_pages`, not `_news`. The old `/news/opensource/` address redirects to `/open-source/` so existing links are preserved.
+News items use `layout: post`, an announcement date, `inline: false`, and `related_posts: false`. Use `event_date` for the event start date and `display_date` for its visible date range. News is sorted by event date, newest first. Set `archived: true` to hide an older item from the lists while retaining its direct URL. Permanent statements belong in `_pages`, not `_news`. The old `/news/opensource/` address redirects to `/open-source/` so existing links are preserved.
 
 ## Publishing and verification
 
@@ -42,3 +42,12 @@ News items use `layout: post`, an announcement date, `inline: false`, and `relat
 Public event links are stored with individual talk entries. The main public sources were the IMPAN group directory, official conference and university announcements, arXiv records, and publisher records. The owner's academic CV, talk list, and supervision list were cross-checked without publishing those private documents. Existing historical records and incoming URLs were retained.
 
 Some sources disagree on historical postdoc end dates and on student status during transitions. Do not silently invent dates to reconcile them. Prefer explicit recent appointment announcements; ask the owner when the source remains unclear.
+
+## September 2026 audit follow-up
+
+- Homepage statement link follows the IMPAN group link; preserve the existing site.
+- News lists Midrasha, RIMS, then the Chilean–Polish meeting. Earlier news pages retain their URLs.
+- Current PhD status is based on the owner's explicit correction: Dominik Bargieła is a current PhD student; Noah Slavitch has left and is removed from the list.
+- CV updated from the supplied ERC CV, with grant dates checked against https://www.impan.pl/en/activities/grants.
+- Exact lecture dates checked at https://logic.berkeley.edu/tarski-lectures.html, https://somachi-ptm.pwr.edu.pl/schedule-of-the-sessions#Thursday and the linked RIMS and Midrasha programmes.
+- Theme sample posts are unpublished; real conference content is retained. Unavailable seminar-slide links removed, and a PDF filename typo corrected.

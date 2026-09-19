@@ -1,4 +1,5 @@
 ---
+archived: true
 layout: post
 title: Our New Web Site
 date: 2025-01-31

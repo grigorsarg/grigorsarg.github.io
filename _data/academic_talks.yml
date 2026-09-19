@@ -3,27 +3,31 @@
 - title: Nairian Models
   date: '2026-10-05'
   year: 2026
-  display_date: 5–9 October 2026
+  display_date: 5, 6 and 7 October 2026
+  end_date: '2026-10-07'
+  note: Three lectures, Nairian Models I–III. Workshop dates 5–9 October 2026.
   venue: RIMS Set Theory Workshop 2026, Kyoto University, Japan
-  kind: Invited lectures
+  kind: Invited lecture series
   upcoming: true
   event_url: https://sites.google.com/view/rims-set-theory-2026/home
-- title: Invited tutorial
-  date: '2026-10-18'
+- title: Nairian Models
+  date: '2026-10-19'
+  end_date: '2026-10-20'
   year: 2026
-  display_date: 18–22 October 2026
+  display_date: 19–20 October 2026
   venue: 26th Midrasha Mathematicae on Singular Cardinals Combinatorics, Israel Institute for Advanced Studies, Hebrew University of Jerusalem
-  note: Celebrating Menachem Magidor's 80th birthday. Tutorial title to be announced.
+  kind: Invited tutorial (three lectures)
+  note: Conference dates 18–22 October 2026. Celebrating Menachem Magidor's 80th birthday.
   upcoming: true
   event_url: https://iias.huji.ac.il/event/26th-midrasha-mathematicae-singular-cardinals-combinatorics-celebrating-menacham-magidors
 - title: Nairian Models
-  date: '2026-09-07'
+  date: '2026-09-10'
   year: 2026
-  display_date: 7–11 September 2026 (conference dates)
+  display_date: 10 September 2026
   venue: Chilean–Polish Mathematical Meeting, Set Theory section, Wrocław, Poland
   kind: Invited talk
   upcoming: false
-  event_url: https://somachi-ptm.pwr.edu.pl/
+  event_url: https://somachi-ptm.pwr.edu.pl/schedule-of-the-sessions#Thursday
 - title: Inner Models and the Powerset Operation
   date: '2026-05-01'
   year: 2026
@@ -48,7 +52,7 @@
   kind: Tarski Lecture 1
   note: 'Series: Gödel’s Program and Two Dogmas of Set Theory.'
   upcoming: false
-  event_url: https://pantheon.math.berkeley.edu/node/3802
+  event_url: https://logic.berkeley.edu/tarski-lectures.html
 - title: Nairian Models II
   date: '2026-03-02'
   year: 2026

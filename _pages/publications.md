@@ -13,7 +13,7 @@ nav_order: 0
   {% capture entries_in_year %}{% bibliography_count -f papers -q @*[year={{y}}] %}{% endcapture %}
   {% assign entries_in_year = entries_in_year | strip | plus: 0 %}
   {% if entries_in_year > 0 %}
-  <h2 class="year">{{ y }}</h2>
+  <h2 class="year" id="year-{{ y }}">{{ y }}</h2>
   {% bibliography -f papers -q @*[year={{y}}] %}
   {% endif %}
 {% endfor %}
