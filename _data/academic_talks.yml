@@ -1,5 +1,5 @@
-# Add new talks here. Dates are ISO strings; display_date is the public label.
-# Set upcoming: false after an event. Unknown titles and exact dates are not invented.
+# Add new talks here. Quote ISO dates. Use conference dates when the lecture day is unknown.
+# These records were checked against event pages and the owner's academic talk list.
 - title: Nairian Models
   date: '2026-10-05'
   year: 2026
@@ -72,6 +72,12 @@
   venue: IMPAN Set Theory Seminar, Warsaw, Poland
   upcoming: false
   event_url: https://impanset.github.io/sts/
+- title: Forcing choice over Nairian Models
+  date: '2026-01-12'
+  year: 2026
+  display_date: 12 January 2026
+  venue: Münster Set Theory Seminar, Germany
+  upcoming: false
 - title: The failure of square everywhere is weaker than a Woodin cardinal that is a limit of Woodin cardinals
   date: '2025-11-20'
   year: 2025
