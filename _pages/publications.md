@@ -2,21 +2,23 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 
-years: [2026,2025,2024,2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2010, 2009, 2008, 2007, 2006, 2005, 2004]
+description: Papers, preprints, and books
 nav: true
 nav_order: 0
 ---
-<!-- _pages/publications.md -->
+
 <div class="publications">
-
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  
-  {% bibliography -f  {{ site.scholar.bibliography }}  -q @*[year={{y}}]* %} {% endfor %}
-
-
+{% assign current_year = site.time | date: '%Y' | plus: 0 %}
+{% for y in (2004..current_year) reversed %}
+  {% capture archive_count %}{% bibliography_count -f papers -q @*[year={{y}}] %}{% endcapture %}
+  {% capture additions_count %}{% bibliography_count -f additions -q @*[year={{y}}] %}{% endcapture %}
+  {% assign archive_count = archive_count | strip | plus: 0 %}
+  {% assign additions_count = additions_count | strip | plus: 0 %}
+  {% assign year_count = archive_count | plus: additions_count %}
+  {% if year_count > 0 %}
+  <h2 class="year" id="year-{{ y }}">{{ y }}</h2>
+  {% if additions_count > 0 %}{% bibliography -f additions -q @*[year={{y}}] %}{% endif %}
+  {% if archive_count > 0 %}{% bibliography -f papers -q @*[year={{y}}] %}{% endif %}
+  {% endif %}
+{% endfor %}
 </div>
-
-
-
