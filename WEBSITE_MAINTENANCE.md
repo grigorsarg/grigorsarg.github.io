@@ -7,6 +7,7 @@ The live address is https://grigorsarg.github.io/. The existing al-folio appeara
 | Content | File or directory |
 | --- | --- |
 | Papers, preprints, books | `_bibliography/papers.bib` |
+| Mathematical title display overrides | `_data/publication_titles.yml` |
 | Recent and upcoming talks | `_data/academic_talks.yml` |
 | Students and postdocs | `_data/academic_people.yml` |
 | Homepage announcements | `_news/` (one Markdown file per item) |
