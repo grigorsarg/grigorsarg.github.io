@@ -1,0 +1,7 @@
+{% assign talk = include.talk %}
+<li class="mb-3">
+  <strong>{{ talk.title | escape }}</strong>{% if talk.kind %} <span>({{ talk.kind | escape }})</span>{% endif %}<br>
+  {{ talk.venue | escape }} — <time datetime="{{ talk.date | escape }}">{{ talk.display_date | escape }}</time>.
+  {% if talk.note %}<br>{{ talk.note | escape }}{% endif %}
+  {% if talk.event_url %}<br><a href="{{ talk.event_url | escape }}">Event information</a>{% endif %}{% if talk.video_url %} · <a href="{{ talk.video_url | escape }}">Recording</a>{% endif %}{% if talk.slides_url %} · <a href="{{ talk.slides_url | escape }}">Slides</a>{% endif %}
+</li>

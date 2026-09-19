@@ -1,0 +1,107 @@
+# Add new talks here. Dates are ISO strings; display_date is the public label.
+# Set upcoming: false after an event. Unknown titles and exact dates are not invented.
+- title: Nairian Models
+  date: '2026-10-05'
+  year: 2026
+  display_date: 5–9 October 2026
+  venue: RIMS Set Theory Workshop 2026, Kyoto University, Japan
+  kind: Invited lectures
+  upcoming: true
+  event_url: https://sites.google.com/view/rims-set-theory-2026/home
+- title: Invited tutorial
+  date: '2026-10-18'
+  year: 2026
+  display_date: 18–22 October 2026
+  venue: 26th Midrasha Mathematicae on Singular Cardinals Combinatorics, Israel Institute for Advanced Studies, Hebrew University of Jerusalem
+  note: Celebrating Menachem Magidor's 80th birthday. Tutorial title to be announced.
+  upcoming: true
+  event_url: https://iias.huji.ac.il/event/26th-midrasha-mathematicae-singular-cardinals-combinatorics-celebrating-menacham-magidors
+- title: Nairian Models
+  date: '2026-09-07'
+  year: 2026
+  display_date: 7–11 September 2026 (conference dates)
+  venue: Chilean–Polish Mathematical Meeting, Set Theory section, Wrocław, Poland
+  kind: Invited talk
+  upcoming: false
+  event_url: https://somachi-ptm.pwr.edu.pl/
+- title: Inner Models and the Powerset Operation
+  date: '2026-05-01'
+  year: 2026
+  display_date: 1 May 2026
+  venue: University of California, Berkeley
+  kind: Tarski Lecture 3
+  upcoming: false
+  event_url: https://philosophy.berkeley.edu/events/detail/2169
+- title: The Nairian Models Perspective
+  date: '2026-04-29'
+  year: 2026
+  display_date: 29 April 2026
+  venue: University of California, Berkeley
+  kind: Tarski Lecture 2
+  upcoming: false
+  event_url: https://philosophy.berkeley.edu/events/detail/2168
+- title: Gödel's Program
+  date: '2026-04-27'
+  year: 2026
+  display_date: 27 April 2026
+  venue: University of California, Berkeley
+  kind: Tarski Lecture 1
+  note: 'Series: Gödel’s Program and Two Dogmas of Set Theory.'
+  upcoming: false
+  event_url: https://pantheon.math.berkeley.edu/node/3802
+- title: Nairian Models II
+  date: '2026-03-02'
+  year: 2026
+  display_date: 2–6 March 2026
+  venue: TU Wien, Vienna, Austria
+  kind: Lecture series
+  upcoming: false
+  event_url: https://www.tuwien.at/en/mg/dmg/imt/workshop-nairian-models
+- title: Nairian Models I
+  date: '2026-02-16'
+  year: 2026
+  display_date: 16–20 February 2026
+  venue: IMPAN, Warsaw, Poland
+  kind: Lecture series
+  upcoming: false
+  event_url: https://impanset.github.io/nm/
+- title: An Introduction to Nairian Models
+  date: '2026-02-10'
+  year: 2026
+  display_date: 10 February 2026
+  venue: IMPAN Set Theory Seminar, Warsaw, Poland
+  upcoming: false
+  event_url: https://impanset.github.io/sts/
+- title: The failure of square everywhere is weaker than a Woodin cardinal that is a limit of Woodin cardinals
+  date: '2025-11-20'
+  year: 2025
+  display_date: 20 November 2025
+  venue: IMPAN, online lecture
+  upcoming: false
+  event_url: https://ests.wordpress.com/2025/11/21/video-available-grigor-sargsyan-on-the-failure-of-square-everywhere/
+  video_url: https://youtu.be/N1SEVklWEvQ
+- title: Nairian Models
+  date: '2025-11-04'
+  year: 2025
+  display_date: 4 November 2025
+  venue: XVIII International Workshop in Set Theory, CIRM, Luminy, France
+  upcoming: false
+  event_url: https://www.carmin.tv/en/video/nairian-models
+  video_url: https://www.carmin.tv/en/video/nairian-models
+- title: Nairian Models
+  date: '2025-06-30'
+  year: 2025
+  display_date: 30 June–3 July 2025
+  venue: Third Berkeley Conference on Inner Model Theory, University of California, Berkeley
+  kind: Tutorial (eight sessions)
+  upcoming: false
+  event_url: https://math.berkeley.edu/~goldberg/conference/index.html
+- title: Fifth European Set Theory Colloquium
+  date: '2025-05-22'
+  year: 2025
+  display_date: 22 May 2025
+  venue: European Set Theory Society, online
+  kind: Panel discussion
+  note: With Andrew Marks and Dima Sinapova. Recording available on the event page.
+  upcoming: false
+  event_url: https://settheory.eu/colloquia.html
