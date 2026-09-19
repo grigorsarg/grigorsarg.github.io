@@ -1,17 +1,19 @@
-# Public directory checked against https://impanset.github.io/ on 2026-09-19.
-# Earlier supervision and degree dates are retained from the personal website and CV.
-# The current group directory gives Henney-Turner's postdoc dates as 2023–2025.
+# Academic information checked on 2026-09-19 against the group directory,
+# the owner's current academic records, and the IMPAN 2026/27 admissions notice.
+# Omit historical postdoc dates where the available records disagree.
 - heading: Current postdoctoral researchers
   people:
     - name: Rahman Mohammadpour
       url: https://si-morgh.github.io/
-      detail: IMPAN; NCN MAESTRO 15.
+      detail: IMPAN; 2026–present; NCN MAESTRO 15.
     - name: Otto Rajala
-      detail: IMPAN; NCN MAESTRO 15.
+      detail: IMPAN; 2026–present; NCN MAESTRO 15.
     - name: Sebastiano Thei
-      detail: IMPAN; NCN WEAVE–UNISONO.
-- heading: Current PhD students
+      detail: IMPAN; 2026–present; NCN WEAVE–UNISONO.
+- heading: PhD students and doctoral co-supervision
   people:
+    - name: Corentin Lagadec
+      detail: TU Wien; doctoral co-supervision with William Chan (2026).
     - name: Arijeet Mishra
       detail: University of Gdańsk; 2024–present.
     - name: Umutcan Kaya
@@ -23,10 +25,15 @@
       detail: University of Warsaw; jointly supervised with Marcin Kysiak; 2023–present.
     - name: Noah Slavitch
       detail: University of Warsaw.
+- heading: Incoming PhD students, 2026–2027
+  people:
+    - name: Dominik Bargieła
+      url: https://www.impan.pl/en/institute/news/1884-six-new-phd-students-join-the-impan-community
+      detail: Warsaw Doctoral School of Mathematics and Computer Science (University of Warsaw and IMPAN); admitted for 2026–2027. Research topic — Large cardinals in Nairian Model.
 - heading: Current master's students
   people:
     - name: Olaf Kołodziejski
-      detail: University of Warsaw.
+      detail: University of Warsaw; jointly supervised with Maciej Malicki; 2024–present.
 - heading: Former PhD students
   people:
     - name: Obrad Kasum
@@ -43,22 +50,16 @@
 - heading: Former postdoctoral researchers
   people:
     - name: Christopher Henney-Turner
-      detail: 2023–2025.
+      detail: Former postdoctoral researcher at IMPAN.
     - name: Douglas Blue
       detail: '2023.'
     - name: Scott Cramer
-      detail: 2013–2015.
+      detail: Former postdoctoral researcher at Rutgers University.
 - heading: Former master's students
   people:
     - name: Jan Kostrzon
       detail: University of Warsaw; jointly supervised with Marcin Kysiak; master's degree 2023.
     - name: Obrad Kasum
       detail: Université de Paris; jointly supervised with Boban Veličković; master's degree 2021.
-    - name: Martin Koeberl
+    - name: Martin Köberl
       detail: Rutgers University; master's degree 2018.
-- heading: Visiting students and internships
-  people:
-    - name: Corentin Lagadec
-      detail: Visiting student; listed with the University of Warsaw in the group directory.
-    - name: Dominik Bargieła
-      detail: University of Wrocław; research internship, autumn 2025.
