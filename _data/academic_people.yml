@@ -1,0 +1,64 @@
+# Public directory checked against https://impanset.github.io/ on 2026-09-19.
+# Earlier supervision and degree dates are retained from the personal website and CV.
+# The current group directory gives Henney-Turner's postdoc dates as 2023–2025.
+- heading: Current postdoctoral researchers
+  people:
+    - name: Rahman Mohammadpour
+      url: https://si-morgh.github.io/
+      detail: IMPAN; NCN MAESTRO 15.
+    - name: Otto Rajala
+      detail: IMPAN; NCN MAESTRO 15.
+    - name: Sebastiano Thei
+      detail: IMPAN; NCN WEAVE–UNISONO.
+- heading: Current PhD students
+  people:
+    - name: Arijeet Mishra
+      detail: University of Gdańsk; 2024–present.
+    - name: Umutcan Kaya
+      url: https://umutcan-kaya.github.io/
+      detail: University of Warsaw; 2024–present.
+    - name: Lukas Koschat
+      detail: TU Wien; jointly supervised with Sandra Müller; 2023–present.
+    - name: Jan Kostrzon
+      detail: University of Warsaw; jointly supervised with Marcin Kysiak; 2023–present.
+    - name: Noah Slavitch
+      detail: University of Warsaw.
+- heading: Current master's students
+  people:
+    - name: Olaf Kołodziejski
+      detail: University of Warsaw.
+- heading: Former PhD students
+  people:
+    - name: Obrad Kasum
+      url: https://obradkasum.github.io/
+      detail: Université de Paris; jointly supervised with Boban Veličković; PhD 2025.
+    - name: Derek Levinson
+      detail: UCLA; jointly supervised with Itay Neeman; PhD 2023.
+    - name: James Holland
+      url: https://sites.math.rutgers.edu/~jch258/
+      detail: Rutgers University; 2017–2023; PhD 2023.
+    - name: Takehiko Gappo
+      url: https://sites.google.com/view/takehikogappo/home
+      detail: Rutgers University; 2018–2022; PhD 2022.
+- heading: Former postdoctoral researchers
+  people:
+    - name: Christopher Henney-Turner
+      detail: 2023–2025.
+    - name: Douglas Blue
+      detail: '2023.'
+    - name: Scott Cramer
+      detail: 2013–2015.
+- heading: Former master's students
+  people:
+    - name: Jan Kostrzon
+      detail: University of Warsaw; jointly supervised with Marcin Kysiak; master's degree 2023.
+    - name: Obrad Kasum
+      detail: Université de Paris; jointly supervised with Boban Veličković; master's degree 2021.
+    - name: Martin Koeberl
+      detail: Rutgers University; master's degree 2018.
+- heading: Visiting students and internships
+  people:
+    - name: Corentin Lagadec
+      detail: Visiting student; listed with the University of Warsaw in the group directory.
+    - name: Dominik Bargieła
+      detail: University of Wrocław; research internship, autumn 2025.
