@@ -11,7 +11,7 @@ nav_order: 6
 <h2>{{ section.heading | escape }}</h2>
 <ul>
 {% for person in section.people %}
-  <li>{% if person.url %}<a href="{{ person.url | escape }}">{{ person.name | escape }}</a>{% else %}{{ person.name | escape }}{% endif %} — {{ person.detail | escape }}</li>
+  <li>{% if person.url %}<a href="{{ person.url | escape }}">{{ person.name | escape }}</a>{% else %}{{ person.name | escape }}{% endif %}{% if person.detail %} — {{ person.detail | escape }}{% endif %}</li>
 {% endfor %}
 </ul>
 {% endfor %}

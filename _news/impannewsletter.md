@@ -1,4 +1,5 @@
 ---
+archived: true
 layout: post
 title: IMPAN Newsletter
 date: 2025-01-31

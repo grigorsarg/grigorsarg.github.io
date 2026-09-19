@@ -18,14 +18,16 @@ selected_papers: true
 social: true
 ---
 
-I am a Professor IMPAN at the [Institute of Mathematics of the Polish Academy of Sciences](https://www.impan.pl/en).
+I am a professor at the [Institute of Mathematics of the Polish Academy of Sciences](https://www.impan.pl/en) (IMPAN) in Warsaw.
 
-I use [Arch](https://archlinux.org), btw. **[Open Source Statement]({{ '/open-source/' | relative_url }})**
+I use [Arch](https://archlinux.org), btw.
 
-**Research:** My research is mostly in [set theory](https://en.wikipedia.org/wiki/Set_theory), and within set theory I am interested in [inner model theory](https://en.wikipedia.org/wiki/Inner_model_theory) and its connections with [forcing axioms](https://en.wikipedia.org/wiki/Martin%27s_axiom) and [determinacy axioms](https://en.wikipedia.org/wiki/Axiom_of_determinacy).
+**Research:** I work in set theory, particularly inner model theory and its connections with determinacy, forcing axioms, and large cardinals. My recent work focuses on Nairian Models and their applications to these questions. See my [publications]({{ '/publications/' | relative_url }}) and [talks]({{ '/teaching/' | relative_url }}).
 
 **Email:** gsargsyan at impan dot pl
 
 **Office:** 309B, Warsaw branch of IMPAN
 
 **Our group at IMPAN:** [IMPAN Set Theory / Inner Model Theory Group](https://impanset.github.io/)
+
+**[Open Source Statement]({{ '/open-source/' | relative_url }})**

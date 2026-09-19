@@ -29,7 +29,7 @@
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+        <div class="title">{{ site.data.publication_titles[entry.key] | default: entry.title }}</div>
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
@@ -106,32 +106,21 @@
 
         </div>
 
-        <!-- Journal/Book title and date -->
-        {% assign proceedings = "inproceedings,incollection" | split: ','%}
-        {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
-        {% if entry.type == "article" -%}
-          {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
-        {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
-        {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
-        {%- else -%}
-          {%- capture entrytype -%}{%- endcapture -%}
-        {%- endif -%}
-        {%- if entry.month -%}
-          {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
-        {%- endif -%}
-        {%- if entry.year -%}
-          {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
-        {%- endif -%}
-        {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        <!-- Publication details -->
         <div class="periodical">
-          {{ periodical | strip }}
+          {% if entry.type == "article" %}
+            <em>{{ entry.journal }}</em>{% if entry.volume %} <strong>{{ entry.volume }}</strong>{% endif %}{% if entry.number %}({{ entry.number }}){% endif %}{% if entry.pages %}, {{ entry.pages | replace: '--', '–' }}{% endif %} ({{ entry.year }}).
+          {% elsif entry.type == "book" %}
+            {% if entry.series %}<em>{{ entry.series }}</em>{% if entry.volume %} {{ entry.volume }}{% endif %}{% if entry.number %}, no. {{ entry.number }}{% endif %}. {% endif %}{{ entry.publisher }} ({{ entry.year }}).
+          {% elsif entry.booktitle %}
+            In <em>{{ entry.booktitle }}</em>{% if entry.pages %}, {{ entry.pages | replace: '--', '–' }}{% endif %} ({{ entry.year }}).
+          {% elsif entry.school %}
+            {{ entry.school }} ({{ entry.year }}).
+          {% else %}
+            Preprint, {{ entry.year }}.
+          {% endif %}
         </div>
-        <div class="periodical">
-          {{ entry.note | strip }}
-        </div>
+        {% if entry.note %}<div class="periodical">{{ entry.note | strip }}</div>{% endif %}
 
           <!-- Links/Buttons -->
           <div class="links">
@@ -139,7 +128,13 @@
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
           {%- endif %}
           {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+            <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+          {%- endif %}
+          {%- if entry.doi %}
+            <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0">DOI</a>
+          {%- endif %}
+          {%- if entry.corrigendum_doi %}
+            <a href="https://doi.org/{{ entry.corrigendum_doi }}" class="btn btn-sm z-depth-0">Corrigendum</a>
           {%- endif %}
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
