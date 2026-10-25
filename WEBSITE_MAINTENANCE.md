@@ -11,7 +11,6 @@ The live address is https://grigorsarg.github.io/. The existing al-folio appeara
 | Recent and upcoming talks | `_data/academic_talks.yml` |
 | Students and postdocs | `_data/academic_people.yml` |
 | Homepage announcements | `_news/` (one Markdown file per item) |
-| Permanent Open Source Statement | `_pages/open-source.md` |
 | Homepage and contact details | `_pages/about.md` |
 | Conference cards | `_projects/` |
 | Publications renderer | `_pages/publications.md` |
@@ -28,7 +27,7 @@ For a talk, add one YAML record. Quote the ISO `date` string, provide a human-re
 
 For a person, edit their entry in `academic_people.yml` or move it to the appropriate section. Do not infer individual supervision solely from membership in a research group. Verify new appointments and distinguish incoming students from current students.
 
-News items use `layout: post`, an announcement date, `inline: false`, and `related_posts: false`. Use `event_date` for the event start date and `display_date` for its visible date range. News is sorted by event date, newest first. Set `archived: true` to hide an older item from the lists while retaining its direct URL. Permanent statements belong in `_pages`, not `_news`. The old `/news/opensource/` address redirects to `/open-source/` so existing links are preserved.
+News items use `layout: post`, an announcement date, `inline: false`, and `related_posts: false`. Use `event_date` for the event start date and `display_date` for its visible date range. News is sorted by event date, newest first. Set `archived: true` to hide an older item from the lists while retaining its direct URL. Permanent statements belong in `_pages`, not `_news`.
 
 ## Publishing and verification
 
@@ -46,9 +45,13 @@ Some sources disagree on historical postdoc end dates and on student status duri
 
 ## September 2026 audit follow-up
 
-- Homepage statement link follows the IMPAN group link; preserve the existing site.
+- Preserve the existing site. The Open Source Statement and its homepage link were removed at the owner's request on 25 October 2026.
 - News lists Midrasha, RIMS, then the Chilean–Polish meeting. Earlier news pages retain their URLs.
 - Current PhD status is based on the owner's explicit correction: Dominik Bargieła is a current PhD student; Noah Slavitch has left and is removed from the list.
 - CV updated from the supplied ERC CV, with grant dates checked against https://www.impan.pl/en/activities/grants.
 - Exact lecture dates checked at https://logic.berkeley.edu/tarski-lectures.html, https://somachi-ptm.pwr.edu.pl/schedule-of-the-sessions#Thursday and the linked RIMS and Midrasha programmes.
 - Theme sample posts are unpublished; real conference content is retained. Unavailable seminar-slide links removed, and a PDF filename typo corrected.
+
+## Monthly publication updates
+
+The owner has authorized monthly checks of arXiv for new submissions by Grigor Sargsyan and publication of missing entries on this website. Compare arXiv identifiers without version suffixes and normalized titles against `_bibliography/papers.bib`. Verify authors, exact titles, and original submission years on arXiv. Add each paper once; revisions of an existing arXiv identifier are not new papers. Follow the publishing and verification workflow above. Report additions and any unresolved identity matches. Do not restore the Open Source Statement unless the owner requests it.
