@@ -29,5 +29,3 @@ I use [Arch](https://archlinux.org), btw.
 **Office:** 309B, Warsaw branch of IMPAN
 
 **Our group at IMPAN:** [IMPAN Set Theory / Inner Model Theory Group](https://impanset.github.io/)
-
-**[Open Source Statement]({{ '/open-source/' | relative_url }})**
