@@ -1,0 +1,18 @@
+{% assign s = include.seminar %}
+<tr class="logic-entry" id="{{ s.id }}" data-city="{{ s.city | escape }}">
+  <td data-label="Time" class="logic-time">
+    {% if include.show_day %}<span class="logic-day-label">{{ s.day }}</span>{% endif %}
+    <span>{{ s.time }}</span>
+    <small>{{ s.frequency }}</small>
+  </td>
+  <th scope="row" class="logic-name">
+    <a href="{{ s.url | escape }}">{{ s.name }}</a>
+    {% if s.original_name %}<small lang="pl">{{ s.original_name }}</small>{% endif %}
+    <small>{{ s.institution }}</small>
+    <span class="logic-topics">{{ s.topics }}</span>
+    <details><summary><span class="logic-status{% if s.status == 'Current programme' %} logic-status-current{% endif %}">{{ s.status }}</span> <span class="sr-only">Details for {{ s.name }}</span></summary>
+      <p>{{ s.note }}{% if s.schedule_url %} <a href="{{ s.schedule_url | escape }}">Additional schedule source</a>.{% endif %}</p>
+    </details>
+  </th>
+  <td data-label="City and venue" class="logic-venue"><strong>{{ s.city }}</strong><small>{{ s.venue }}</small></td>
+</tr>

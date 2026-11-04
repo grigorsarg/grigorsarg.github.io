@@ -1,0 +1,41 @@
+#logic-directory {
+  .logic-invitation { padding: .9rem 1rem; border-left: 3px solid var(--global-theme-color); background: var(--global-code-bg-color); }
+  .logic-checked { color: var(--global-text-color-light); font-size: .9rem; }
+  .logic-days { display: flex; flex-wrap: wrap; gap: .45rem 1rem; padding: .65rem 0 1.25rem; }
+  .logic-filters { display: flex; align-items: flex-end; flex-wrap: wrap; gap: .75rem; padding: 1rem; border: 1px solid var(--global-divider-color); border-radius: .3rem; margin-bottom: .65rem; }
+  .logic-filters[hidden], [hidden] { display: none !important; }
+  .logic-filters > div:first-child { flex: 1 1 230px; }
+  .logic-filters label { display: block; font-size: .85rem; margin: 0 0 .3rem; }
+  .logic-filters input, .logic-filters select, .logic-filters button { min-height: 2.5rem; padding: .4rem .65rem; color: var(--global-text-color); background: var(--global-bg-color); border: 1px solid var(--global-divider-color); border-radius: .2rem; font: inherit; }
+  .logic-filters input { width: 100%; }
+  .logic-filters button { cursor: pointer; }
+  a:focus-visible, input:focus-visible, select:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--global-theme-color); outline-offset: 3px; }
+  .logic-group { margin: 1.6rem 0 2.2rem; scroll-margin-top: 80px; }
+  h2 { font-size: 1.55rem; }
+  .logic-table { width: 100%; border-collapse: collapse; font-size: .94rem; }
+  .logic-table th, .logic-table td { padding: .85rem .65rem; vertical-align: top; text-align: left; border-bottom: 1px solid var(--global-divider-color); }
+  .logic-table thead th { font-size: .8rem; font-weight: 500; color: var(--global-text-color-light); }
+  .logic-name { width: 53%; font-weight: normal; }
+  .logic-name > a { display: inline-block; font-weight: 500; margin-bottom: .2rem; }
+  .logic-time { width: 20%; font-variant-numeric: tabular-nums; }
+  .logic-venue { width: 27%; }
+  .logic-table small { display: block; font-size: .82rem; line-height: 1.45; margin-top: .25rem; }
+  .logic-topics { display: block; font-size: .82rem; margin: .35rem 0; color: var(--global-text-color-light); }
+  .logic-day-label { display: block; }
+  .logic-table summary { font-size: .78rem; cursor: pointer; }
+  .logic-status { color: var(--global-text-color-light); }
+  .logic-status-current { color: var(--global-theme-color); }
+  .logic-table details p { font-size: .82rem; margin: .45rem 0 0; line-height: 1.5; }
+  #coverage { padding-top: 1rem; border-top: 1px solid var(--global-divider-color); }
+  #coverage summary { cursor: pointer; }
+  #coverage details p { font-size: .9rem; margin-top: .9rem; }
+  @media (max-width: 640px) {
+    .logic-table, .logic-table tbody, .logic-table tr, .logic-table td, .logic-table th { display: block; width: 100%; }
+    .logic-table thead { display: none; }
+    .logic-table tr { padding: 1rem 0; border-bottom: 1px solid var(--global-divider-color); }
+    .logic-table td, .logic-table th { padding: .2rem 0; border: 0; }
+    .logic-time > span, .logic-time small { display: inline; margin-right: .4rem; }
+    .logic-time { font-size: .9rem; margin-bottom: .3rem; }
+    .logic-venue { margin-top: .45rem; font-size: .85rem; }
+  }
+}
