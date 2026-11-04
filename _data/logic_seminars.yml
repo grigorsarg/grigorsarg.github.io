@@ -1,0 +1,393 @@
+checked_on: "2026-11-04"
+checked_display: "4 November 2026"
+timezone: Europe/Warsaw
+days:
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+seminars:
+  - id: lodz-real-analysis
+    name: Real Analysis Seminar
+    original_name: Seminarium z Analizy Rzeczywistej
+    institution: Łódź University of Technology, Institute of Mathematics
+    city: Łódź
+    section: weekly
+    day: Monday
+    time: "12:15–14:00"
+    sort_time: "12:15"
+    frequency: Weekly
+    venue: Room 52, building B9, Lodex
+    topics: Descriptive set theory, set-theoretic topology, real analysis
+    status: Current programme
+    note: Autumn 2026 talks include the Wadge hierarchy and idealistic equivalence relations. Latest listed meeting on 2 November 2026.
+    url: https://www.im.p.lodz.pl/semwa/index.html
+    schedule_url: https://im.p.lodz.pl/zaklad-zastosowan-wspolczesnej-analizy-matematycznej
+
+  - id: gdansk-weekly-math
+    name: Weekly Math Seminar
+    institution: University of Gdańsk, Faculty of Mathematics, Physics and Informatics
+    city: Gdańsk
+    section: weekly
+    day: Tuesday
+    time: "10:15"
+    sort_time: "10:15"
+    frequency: Usually Tuesdays
+    venue: Room A113 or online, as announced
+    topics: Set theory, logic, real functions, topology
+    status: Current programme
+    note: Announcements include 3 and 10 November 2026. Occasional meetings use a different weekday.
+    url: https://mat.ug.edu.pl/~rfilipow/seminar.html
+
+  - id: krakow-high-noon
+    name: High Noon Seminar
+    institution: Jagiellonian University, Department of Logic
+    city: Kraków
+    section: weekly
+    day: Tuesday
+    time: "12:15"
+    sort_time: "12:15"
+    frequency: Weekly
+    venue: Room 30, Collegium Broscianum; Zoom by request
+    topics: Algebraic logic, model theory, philosophical logic
+    status: Published slot
+    note: The seminar page specifies 12:15. Contact Tomasz Kowalski through that page for the online link and current meeting details.
+    url: https://iphils.uj.edu.pl/hns/
+    schedule_url: https://filozofia.uj.edu.pl/pracownia-logiki
+
+  - id: warsaw-impan-students
+    name: IMPAN Set Theory Student Seminar
+    institution: Institute of Mathematics, Polish Academy of Sciences
+    city: Warsaw
+    section: weekly
+    day: Tuesday
+    time: "14:00–16:00"
+    sort_time: "14:00"
+    frequency: Weekly student research seminar
+    venue: Room 1, Śniadeckich 8
+    topics: Inner model theory, set theory, stationary tower forcing
+    status: Current programme
+    note: The 2026/27 page gives this slot and an autumn reading programme. Check announcements for exceptions and online meetings.
+    url: https://impanset.github.io/stusem/
+
+  - id: wroclaw-set-theory
+    name: Wrocław Set Theory & Topology Seminar
+    institution: University of Wrocław and Wrocław University of Science and Technology
+    city: Wrocław
+    section: weekly
+    day: Tuesday
+    time: "17:15"
+    sort_time: "17:15"
+    frequency: Weekly
+    venue: UWr Mathematical Institute; latest announcement gives room 601
+    topics: Set theory, topology, cardinal invariants
+    status: Current programme
+    note: Latest announced meeting on 3 November 2026. The venue changes by semester; use the individual announcement for the room.
+    url: https://prac.im.pwr.edu.pl/~settheory/talks.php
+    schedule_url: https://prac.im.pwr.edu.pl/~settheory/
+
+  - id: poznan-cognition
+    name: Cognitive Science Seminar
+    original_name: Seminarium kognitywistyczne
+    institution: Adam Mickiewicz University, Department of Logic and Cognitive Science
+    city: Poznań
+    section: weekly
+    day: Wednesday
+    time: "10:00–13:00"
+    sort_time: "10:00"
+    frequency: Selected Wednesdays
+    venue: Room 70, Szamarzewskiego 89AB
+    topics: Logic and cognition, argumentation, cognitive science
+    status: Published slot
+    note: Related-area series with a broader cognitive science programme. Individual autumn 2026 dates were not confirmed; consult the calendar or mailing list.
+    url: https://seminarium.web.amu.edu.pl/
+
+  - id: warsaw-impan-set-theory
+    name: IMPAN Set Theory Seminar
+    institution: Institute of Mathematics, Polish Academy of Sciences
+    city: Warsaw
+    section: weekly
+    day: Wednesday
+    time: "10:00–12:00"
+    sort_time: "10:00"
+    frequency: Weekly
+    venue: Room 405, Śniadeckich 8
+    topics: Set theory, inner model theory, determinacy, forcing
+    status: Published slot
+    note: The current Polish institute timetable gives Wednesday 10:00–12:00. The linked group programme still describes an earlier Tuesday slot, so check the latest announcement.
+    url: https://impan.pl/pl/dzialalnosc-naukowa/seminaria/seminaria-w-im-pan
+    schedule_url: https://impanset.github.io/sts/
+
+  - id: lodz-extendd
+    name: ExtenDD Seminar
+    institution: University of Łódź, Department of Logic
+    city: Łódź
+    section: weekly
+    day: Wednesday
+    time: "12:00–14:00"
+    sort_time: "12:00"
+    frequency: Roughly every two weeks during term
+    venue: Online, Microsoft Teams
+    topics: Proof theory, definite descriptions, automated deduction
+    status: Current programme
+    note: A meeting is announced for 4 November 2026. The project page supplies the programme and joining information.
+    url: https://www.uni.lodz.pl/extendd#seminar
+
+  - id: warsaw-uw-mathematical-logic
+    name: Mathematical Logic Seminar
+    original_name: Logika matematyczna
+    institution: University of Warsaw, Faculty of Mathematics, Informatics and Mechanics
+    city: Warsaw
+    section: weekly
+    day: Wednesday
+    time: "12:10"
+    sort_time: "12:10"
+    frequency: Weekly
+    venue: Room 5450, MIM UW
+    topics: Mathematical logic, models of arithmetic, proof theory, reverse mathematics
+    status: Current programme
+    note: Autumn 2026 talks are listed, including meetings on 21 and 28 October.
+    url: https://www.mimuw.edu.pl/pl/seminaria/seminarium-logika-matematyczna/
+
+  - id: krakow-foundations-cs
+    name: Foundations of Computer Science Seminar
+    original_name: Podstawy informatyki
+    institution: Jagiellonian University, Institute of Theoretical Computer Science
+    city: Kraków
+    section: weekly
+    day: Wednesday
+    time: "12:15–14:00"
+    sort_time: "12:15"
+    frequency: Published weekly slot
+    venue: Room 0174
+    topics: Computational logic, computability, typed lambda calculus, logics of programs
+    status: Autumn dates unconfirmed
+    note: The official research seminar page gives this slot, but its latest dated talk is 28 January 2026. Confirm the 2026/27 meetings before travelling.
+    url: https://tcs.uj.edu.pl/en/nauka/seminaria/podstawy-informatyki
+
+  - id: warsaw-uw-automata
+    name: Automata Theory Seminar
+    original_name: Teoria automatów
+    institution: University of Warsaw, Institute of Informatics
+    city: Warsaw
+    section: weekly
+    day: Wednesday
+    time: "14:15"
+    sort_time: "14:15"
+    frequency: Weekly
+    venue: Room 5440, MIM UW
+    topics: Automata, logic in computer science, games, finite model theory
+    status: Current programme
+    note: The programme includes a meeting on 4 November 2026.
+    url: https://www.mimuw.edu.pl/pl/seminaria/seminarium-teoria-automatow/
+
+  - id: warsaw-uw-topology-set-theory
+    name: Topology and Set Theory Seminar
+    original_name: Topologia i teoria mnogości
+    institution: University of Warsaw, Faculty of Mathematics, Informatics and Mechanics
+    city: Warsaw
+    section: weekly
+    day: Wednesday
+    time: "16:15"
+    sort_time: "16:15"
+    frequency: Weekly
+    venue: Room 4050, MIM UW
+    topics: Set theory, set-theoretic topology, descriptive set theory
+    status: Current programme
+    note: Autumn 2026 activity is confirmed by the 14 October entry.
+    url: https://mimuw.edu.pl/pl/seminaria/seminarium-teoria-mnogosci/
+
+  - id: warsaw-impan-applications
+    name: Working Group in Applications of Set Theory
+    institution: Institute of Mathematics, Polish Academy of Sciences
+    city: Warsaw
+    section: weekly
+    day: Thursday
+    time: "10:15"
+    sort_time: "10:15"
+    frequency: Weekly
+    venue: Room 106, Śniadeckich 8
+    topics: Set theory, topology, Boolean algebras, Banach spaces
+    status: Current programme
+    note: The organiser's programme announces 5 November 2026 at 10:15 and several October meetings in the same slot.
+    url: https://piotrkoszmider.github.io/seminar/
+
+  - id: kielce-set-theory
+    name: Set Theory and Topology Seminar
+    original_name: Seminarium z teorii mnogości i topologii
+    institution: Jan Kochanowski University, Department of Mathematics
+    city: Kielce
+    section: weekly
+    day: Thursday
+    time: "16:00"
+    sort_time: "16:00"
+    frequency: Thursdays on announced dates
+    venue: Room 553 and online via Zoom
+    topics: Set theory, topology, related areas of mathematics
+    status: Current programme
+    note: The official 2026 programme lists October meetings. The series also includes broader mathematical topics.
+    url: https://seminarium-matematyka.ujk.edu.pl/index.php?id=program
+
+  - id: warsaw-sign-language-reality
+    name: Sign–Language–Reality
+    original_name: Znak–Język–Rzeczywistość
+    institution: Polish Semiotic Society and University of Warsaw
+    city: Warsaw
+    section: weekly
+    day: Thursday
+    time: "17:00"
+    sort_time: "17:00"
+    frequency: Selected Thursdays
+    venue: Online via Zoom in 2026/27
+    topics: Philosophical logic, formal semantics, philosophy of language
+    status: Current programme
+    note: The 2026/27 calendar lists 29 October, 19 November and 3 December, followed by further meetings in 2027. This is not a weekly meeting.
+    url: https://www.pts.edu.pl/seminarium
+
+  - id: warsaw-semantics-logic-verification
+    name: Semantics, Logic and Verification
+    original_name: Semantyka, Logika i Weryfikacja oraz Wiele Ich Ciekawych Aplikacji
+    institution: University of Warsaw, Institute of Informatics
+    city: Warsaw
+    section: weekly
+    day: Friday
+    time: "12:15"
+    sort_time: "12:15"
+    frequency: Weekly
+    venue: Room 5450, MIM UW
+    topics: Logic, type theory, semantics, formal verification
+    status: Current programme
+    note: A meeting is announced for 6 November 2026. The older listing “Logika i teoria typów” points to the same Friday seminar homepage and is not counted twice here.
+    url: https://mimuw.edu.pl/pl/seminaria/semantyka-logika-i-weryfikacja-oraz-wiele-ich-ciekawych-aplikacji/
+
+  - id: torun-logica-copernicana
+    name: Logica Copernicana
+    institution: Nicolaus Copernicus University, Department of Logic
+    city: Toruń
+    section: other
+    time: Dates announced separately
+    frequency: Irregular international research seminar
+    venue: See individual announcements
+    topics: Logic, nonclassical logics, semantics, proof theory
+    status: Irregular series
+    note: The official site explicitly describes an irregular series. Its forthcoming talks page currently says TBA; no fixed weekday is advertised.
+    url: https://logicacopernicana.umk.pl/
+
+  - id: wroclaw-model-theory
+    name: Model Theory Seminar
+    original_name: Teoria modeli
+    institution: University of Wrocław, Mathematical Institute
+    city: Wrocław
+    section: other
+    time: Current slot unconfirmed
+    frequency: Research seminar
+    venue: Confirm with the organiser
+    topics: Model theory
+    status: Schedule to confirm
+    note: The official page gives Wednesday 14:15–16:00 in HS, but the latest listed talk is 5 June 2024 at 16:15. A 2026/27 slot could not be verified.
+    url: https://www.math.uni.wroc.pl/en/seminar/teoria-modeli
+
+  - id: lodz-density-topologies
+    name: Density Topologies Seminar
+    original_name: Topologie gęstości
+    institution: University of Łódź, Department of Real Functions
+    city: Łódź
+    section: other
+    time: No public timetable found
+    frequency: Departmental research seminar
+    venue: Contact the department
+    topics: Density topologies, applications of set theory to analysis
+    status: Schedule to confirm
+    note: The department names this scientific seminar but does not publish a weekday, time or current programme on the retrieved page.
+    url: https://www.math.uni.lodz.pl/struktura/katedra-funkcji-rzeczywistych
+
+  - id: katowice-mathematical-logic
+    name: Mathematical Logic Seminar
+    original_name: Seminarium z logiki matematycznej
+    institution: University of Silesia, Institute of Mathematics
+    city: Katowice
+    section: other
+    time: Current slot unconfirmed
+    frequency: Listed research series
+    venue: Confirm with the institute
+    topics: Mathematical logic
+    status: Archive linked
+    note: The institute directory lists the series, but its linked timetable is from 2017/18. That historical slot is not used as a current appointment here.
+    url: https://us.edu.pl/instytut/im/badanie-naukowe/seminaria/
+
+  - id: katowice-topology-set-theory
+    name: Topology and Set Theory Seminar
+    original_name: Seminarium z topologii i teorii mnogości
+    institution: University of Silesia, Institute of Mathematics
+    city: Katowice
+    section: other
+    time: Current slot unconfirmed
+    frequency: Listed research series
+    venue: Confirm with the institute
+    topics: Set theory, topology
+    status: Archive linked
+    note: The institute directory links to a 2017/18 archive. Current meetings and their time need confirmation.
+    url: https://us.edu.pl/instytut/im/badanie-naukowe/seminaria/
+
+  - id: warsaw-intelligent-systems
+    name: Intelligent Systems Seminar
+    original_name: Systemy Inteligentne
+    institution: University of Warsaw, Institute of Informatics
+    city: Warsaw
+    section: other
+    time: Published slot Friday 16:15
+    frequency: Listed research seminar
+    venue: Room 4060, MIM UW
+    topics: Approximate reasoning, logic in AI, intelligent systems
+    status: Autumn dates unconfirmed
+    note: Successor to the Logic Group seminar on approximate reasoning. The active directory gives this slot, but the latest dated talk on the retrieved programme is in November 2025. Topics are broader than logic.
+    url: https://www.mimuw.edu.pl/en/seminars/seminar-intelligent-systems/
+
+  - id: warsaw-analytic-philosophy
+    name: Department of Analytic Philosophy Seminar
+    institution: University of Warsaw, Faculty of Philosophy
+    city: Warsaw
+    section: other
+    time: No public timetable found
+    frequency: Departmental research seminar
+    venue: See departmental announcements
+    topics: Philosophy of language, logic-related semantics, analytic philosophy
+    status: Schedule to confirm
+    note: The department confirms a regular seminar but gives no current weekly slot on its public overview. The programme is broader than logic.
+    url: https://filozofia.uw.edu.pl/zaklad-strona/zaklad-filozofii-analitycznej/
+
+  - id: wroclaw-constructive-mathematics
+    name: Constructive Mathematics
+    institution: University of Wrocław, Institute of Computer Science
+    city: Wrocław
+    section: reading
+    day: Monday
+    time: "12:00–14:00"
+    sort_time: "12:00"
+    frequency: Winter 2026/27 teaching and reading seminar
+    venue: Room 105
+    topics: Constructive mathematics, intuitionistic logic, metatheory
+    status: Teaching seminar
+    note: Led by Filip Sieczkowski, in English. This is a course seminar rather than a visiting-speaker research series; check attendance arrangements with the instructor.
+    url: https://zapisy.ii.uni.wroc.pl/courses/seminar-constructive-mathematics-202627-zimowy
+
+coverage:
+  - city: Warsaw
+    institutions: University of Warsaw mathematics, computer science and philosophy; IMPAN; Warsaw University of Technology; UKSW; IPI PAN
+    note: The verified series are listed above. No separate current public logic seminar timetable was located for the other institutions checked.
+  - city: Wrocław
+    institutions: University of Wrocław mathematics, computer science and philosophy; Wrocław University of Science and Technology
+    note: The joint set theory seminar is current. The model theory timetable needs confirmation. An additional formal-proving course was indexed, but its direct page could not be verified.
+  - city: Kraków
+    institutions: Jagiellonian University mathematics, computer science and philosophy; AGH; University of the National Education Commission
+    note: High Noon and Foundations of Computer Science are listed above. No further current public logic research timetable was located. Degree-course seminars are not treated as open research meetings.
+  - city: Łódź
+    institutions: University of Łódź mathematics, computer science and philosophy; Łódź University of Technology
+    note: ExtenDD and the Real Analysis Seminar have current programmes. Density Topologies has no public slot on the departmental page.
+  - city: Gdańsk
+    institutions: University of Gdańsk mathematics, computer science and philosophy; Gdańsk University of Technology
+    note: The Weekly Math Seminar is current. Gdańsk Logic Colloquium Talks has a 2023 archive, not a confirmed current timetable.
+  - city: Other centres
+    institutions: Poznań UAM; Toruń UMK; Kielce UJK; Katowice UŚ; Lublin KUL and UMCS; Opole; Rzeszów; Białystok
+    note: Verified series and uncertain schedules are listed above. No current dedicated public logic research timetable was located for the remaining centres in this search.
