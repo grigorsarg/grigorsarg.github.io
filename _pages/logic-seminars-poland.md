@@ -14,8 +14,10 @@ nav_order: 4.5
 {% assign cities = directory.seminars | map: 'city' | uniq | sort %}
 
 <div id="logic-directory">
+  <p class="logic-invitation">If your seminar does not appear here, please email me at <a href="mailto:gsargsyan@impan.pl">gsargsyan@impan.pl</a> with a link to its webpage.</p>
   <p>Research seminars in mathematical logic, set theory, model theory, proof theory, logic in computer science, and philosophical logic. Related seminars with broader programmes are identified in their notes.</p>
   <p class="logic-checked">Checked {{ directory.checked_display }}. All times are local to Poland, <strong>{{ directory.timezone }}</strong>. Meetings follow academic calendars; use each seminar's programme for dates, exceptions and cancellations.</p>
+  <p><a href="{{ '/assets/pdf/Logic_Seminars_in_Poland_sources.pdf' | relative_url }}">Source list and instructions for checking the schedules (PDF)</a></p>
 
   <nav class="logic-days" aria-label="Jump to weekday">
     {% for day in directory.days %}<a href="#{{ day | downcase }}">{{ day }}</a>{% endfor %}
@@ -69,7 +71,7 @@ nav_order: 4.5
     <details><summary>Institutions checked and gaps in the public schedules</summary>
       {% for item in directory.coverage %}<p><strong>{{ item.city }}</strong>. {{ item.institutions }}. {{ item.note }}</p>{% endfor %}
     </details>
-    <p class="mt-3">Every seminar name links to its official or organiser-maintained page. Corrections and additional public seminar pages are welcome at <a href="mailto:gsargsyan@impan.pl">gsargsyan@impan.pl</a>.</p>
+    <p class="mt-3">Every seminar name links to its official or organiser-maintained page.</p>
   </section>
 </div>
 

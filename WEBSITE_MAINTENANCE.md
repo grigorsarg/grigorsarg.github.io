@@ -17,6 +17,7 @@ The live address is https://grigorsarg.github.io/. The existing al-folio appeara
 | Talks renderer | `_pages/Talks.md` and `_includes/academic_talk.html` |
 | People renderer | `_pages/people.md` |
 | Logic seminars directory | `_data/logic_seminars.yml` and `_pages/logic-seminars-poland.md` |
+| Logic seminar source list and check instructions | `assets/pdf/Logic_Seminars_in_Poland_sources.pdf` |
 
 `papers.bib` is the canonical publication database used by the website. Keep existing citation keys when updating an entry from preprint to journal publication. The historical `preprints.bib` file is not used by the publications page; do not add new records there. Publication headings are generated at build time through the current calendar year, and empty years are omitted. A new year's heading no longer needs a manual edit.
 

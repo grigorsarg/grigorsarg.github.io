@@ -132,7 +132,7 @@ seminars:
     topics: Proof theory, definite descriptions, automated deduction
     status: Current programme
     note: A meeting is announced for 4 November 2026. The project page supplies the programme and joining information.
-    url: https://www.uni.lodz.pl/extendd#seminar
+    url: https://www.uni.lodz.pl/extendd
 
   - id: warsaw-uw-mathematical-logic
     name: Mathematical Logic Seminar

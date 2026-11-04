@@ -1,4 +1,5 @@
 #logic-directory {
+  .logic-invitation { padding: .9rem 1rem; border-left: 3px solid var(--global-theme-color); background: var(--global-code-bg-color); }
   .logic-checked { color: var(--global-text-color-light); font-size: .9rem; }
   .logic-days { display: flex; flex-wrap: wrap; gap: .45rem 1rem; padding: .65rem 0 1.25rem; }
   .logic-filters { display: flex; align-items: flex-end; flex-wrap: wrap; gap: .75rem; padding: 1rem; border: 1px solid var(--global-divider-color); border-radius: .3rem; margin-bottom: .65rem; }
