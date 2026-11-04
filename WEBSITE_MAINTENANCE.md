@@ -16,6 +16,8 @@ The live address is https://grigorsarg.github.io/. The existing al-folio appeara
 | Publications renderer | `_pages/publications.md` |
 | Talks renderer | `_pages/Talks.md` and `_includes/academic_talk.html` |
 | People renderer | `_pages/people.md` |
+| Logic seminars directory | `_data/logic_seminars.yml` and `_pages/logic-seminars-poland.md` |
+| Logic seminar source list and check instructions | `assets/pdf/Logic_Seminars_in_Poland_sources.pdf` |
 
 `papers.bib` is the canonical publication database used by the website. Keep existing citation keys when updating an entry from preprint to journal publication. The historical `preprints.bib` file is not used by the publications page; do not add new records there. Publication headings are generated at build time through the current calendar year, and empty years are omitted. A new year's heading no longer needs a manual edit.
 
@@ -30,6 +32,8 @@ For a person, edit their entry in `academic_people.yml` or move it to the approp
 News items use `layout: post`, an announcement date, `inline: false`, and `related_posts: false`. Use `event_date` for the event start date and `display_date` for its visible date range. News is sorted by event date, newest first. Set `archived: true` to hide an older item from the lists while retaining its direct URL. Permanent statements belong in `_pages`, not `_news`.
 
 ## Publishing and verification
+
+The Logic Seminars in Poland directory groups research meetings by weekday. Keep the checked date and official programme links with its data. Distinguish a current programme from an undated published slot, an irregular series, a teaching seminar, or an archive. Do not turn historical times into current appointments. The older UW Friday type-theory listing points to the same seminar homepage as Semantics, Logic and Verification; avoid counting that series twice.
 
 1. Fetch the current `master` before editing. Work on a branch and preserve other contributors' changes.
 2. Save the edits as commits and open a pull request to run the existing `deploy` build. Pull-request builds do not publish the website.

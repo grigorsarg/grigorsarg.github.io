@@ -113,6 +113,10 @@ body.sticky-bottom-footer {
   max-width: 800px;
 }
 
+#navbar > .container {
+  max-width: 1200px;
+}
+
 .profile img {
   width: 100%;
 }
@@ -1051,6 +1055,170 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   }
   d-article d-contents nav {
     grid-column: none;
+  }
+}
+#logic-directory .logic-invitation {
+  padding: 0.9rem 1rem;
+  border-left: 3px solid var(--global-theme-color);
+  background: var(--global-code-bg-color);
+}
+#logic-directory .logic-checked {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+#logic-directory .logic-days {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 1rem;
+  padding: 0.65rem 0 1.25rem;
+}
+#logic-directory .logic-filters {
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.3rem;
+  margin-bottom: 0.65rem;
+}
+#logic-directory .logic-filters[hidden], #logic-directory [hidden] {
+  display: none !important;
+}
+#logic-directory .logic-filters > div:first-child {
+  flex: 1 1 230px;
+}
+#logic-directory .logic-filters label {
+  display: block;
+  font-size: 0.85rem;
+  margin: 0 0 0.3rem;
+}
+#logic-directory .logic-filters input, #logic-directory .logic-filters select, #logic-directory .logic-filters button {
+  min-height: 2.5rem;
+  padding: 0.4rem 0.65rem;
+  color: var(--global-text-color);
+  background: var(--global-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.2rem;
+  font: inherit;
+}
+#logic-directory .logic-filters input {
+  width: 100%;
+}
+#logic-directory .logic-filters button {
+  cursor: pointer;
+}
+#logic-directory a:focus-visible, #logic-directory input:focus-visible, #logic-directory select:focus-visible, #logic-directory button:focus-visible, #logic-directory summary:focus-visible {
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 3px;
+}
+#logic-directory .logic-group {
+  margin: 1.6rem 0 2.2rem;
+  scroll-margin-top: 80px;
+}
+#logic-directory h2 {
+  font-size: 1.55rem;
+}
+#logic-directory .logic-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.94rem;
+}
+#logic-directory .logic-table th, #logic-directory .logic-table td {
+  padding: 0.85rem 0.65rem;
+  vertical-align: top;
+  text-align: left;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+#logic-directory .logic-table thead th {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--global-text-color-light);
+}
+#logic-directory .logic-name {
+  width: 53%;
+  font-weight: normal;
+}
+#logic-directory .logic-name > a {
+  display: inline-block;
+  font-weight: 500;
+  margin-bottom: 0.2rem;
+}
+#logic-directory .logic-time {
+  width: 20%;
+  font-variant-numeric: tabular-nums;
+}
+#logic-directory .logic-venue {
+  width: 27%;
+}
+#logic-directory .logic-table small {
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  margin-top: 0.25rem;
+}
+#logic-directory .logic-topics {
+  display: block;
+  font-size: 0.82rem;
+  margin: 0.35rem 0;
+  color: var(--global-text-color-light);
+}
+#logic-directory .logic-day-label {
+  display: block;
+}
+#logic-directory .logic-table summary {
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+#logic-directory .logic-status {
+  color: var(--global-text-color-light);
+}
+#logic-directory .logic-status-current {
+  color: var(--global-theme-color);
+}
+#logic-directory .logic-table details p {
+  font-size: 0.82rem;
+  margin: 0.45rem 0 0;
+  line-height: 1.5;
+}
+#logic-directory #coverage {
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+}
+#logic-directory #coverage summary {
+  cursor: pointer;
+}
+#logic-directory #coverage details p {
+  font-size: 0.9rem;
+  margin-top: 0.9rem;
+}
+@media (max-width: 640px) {
+  #logic-directory .logic-table, #logic-directory .logic-table tbody, #logic-directory .logic-table tr, #logic-directory .logic-table td, #logic-directory .logic-table th {
+    display: block;
+    width: 100%;
+  }
+  #logic-directory .logic-table thead {
+    display: none;
+  }
+  #logic-directory .logic-table tr {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+  #logic-directory .logic-table td, #logic-directory .logic-table th {
+    padding: 0.2rem 0;
+    border: 0;
+  }
+  #logic-directory .logic-time > span, #logic-directory .logic-time small {
+    display: inline;
+    margin-right: 0.4rem;
+  }
+  #logic-directory .logic-time {
+    font-size: 0.9rem;
+    margin-bottom: 0.3rem;
+  }
+  #logic-directory .logic-venue {
+    margin-top: 0.45rem;
+    font-size: 0.85rem;
   }
 }
 
